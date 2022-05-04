@@ -1,0 +1,16 @@
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\Guia_de_ejercicios\Intro_a_NET\Ejer_01\Ejer_01\bin\Debug\net5.0\Ejer_01.exe
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\Guia_de_ejercicios\Intro_a_NET\Ejer_01\Ejer_01\bin\Debug\net5.0\Ejer_01.deps.json
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\Guia_de_ejercicios\Intro_a_NET\Ejer_01\Ejer_01\bin\Debug\net5.0\Ejer_01.runtimeconfig.json
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\Guia_de_ejercicios\Intro_a_NET\Ejer_01\Ejer_01\bin\Debug\net5.0\Ejer_01.runtimeconfig.dev.json
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\Guia_de_ejercicios\Intro_a_NET\Ejer_01\Ejer_01\bin\Debug\net5.0\Ejer_01.dll
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\Guia_de_ejercicios\Intro_a_NET\Ejer_01\Ejer_01\bin\Debug\net5.0\ref\Ejer_01.dll
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\Guia_de_ejercicios\Intro_a_NET\Ejer_01\Ejer_01\bin\Debug\net5.0\Ejer_01.pdb
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\Guia_de_ejercicios\Intro_a_NET\Ejer_01\Ejer_01\obj\Debug\net5.0\Ejer_01.csproj.AssemblyReference.cache
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\Guia_de_ejercicios\Intro_a_NET\Ejer_01\Ejer_01\obj\Debug\net5.0\Ejer_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\Guia_de_ejercicios\Intro_a_NET\Ejer_01\Ejer_01\obj\Debug\net5.0\Ejer_01.AssemblyInfoInputs.cache
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\Guia_de_ejercicios\Intro_a_NET\Ejer_01\Ejer_01\obj\Debug\net5.0\Ejer_01.AssemblyInfo.cs
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\Guia_de_ejercicios\Intro_a_NET\Ejer_01\Ejer_01\obj\Debug\net5.0\Ejer_01.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\Guia_de_ejercicios\Intro_a_NET\Ejer_01\Ejer_01\obj\Debug\net5.0\Ejer_01.dll
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\Guia_de_ejercicios\Intro_a_NET\Ejer_01\Ejer_01\obj\Debug\net5.0\ref\Ejer_01.dll
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\Guia_de_ejercicios\Intro_a_NET\Ejer_01\Ejer_01\obj\Debug\net5.0\Ejer_01.pdb
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\Guia_de_ejercicios\Intro_a_NET\Ejer_01\Ejer_01\obj\Debug\net5.0\Ejer_01.genruntimeconfig.cache

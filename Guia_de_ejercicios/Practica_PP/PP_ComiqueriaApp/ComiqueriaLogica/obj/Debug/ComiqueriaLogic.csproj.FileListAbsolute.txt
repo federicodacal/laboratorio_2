@@ -1,0 +1,6 @@
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\Guia_de_ejercicios\Practica_PP\PP_ComiqueriaApp\ComiqueriaLogica\obj\Debug\ComiqueriaLogic.csproj.AssemblyReference.cache
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\Guia_de_ejercicios\Practica_PP\PP_ComiqueriaApp\ComiqueriaLogica\obj\Debug\ComiqueriaLogic.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\Guia_de_ejercicios\Practica_PP\PP_ComiqueriaApp\ComiqueriaLogica\bin\Debug\ComiqueriaLogica.dll
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\Guia_de_ejercicios\Practica_PP\PP_ComiqueriaApp\ComiqueriaLogica\bin\Debug\ComiqueriaLogica.pdb
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\Guia_de_ejercicios\Practica_PP\PP_ComiqueriaApp\ComiqueriaLogica\obj\Debug\ComiqueriaLogica.dll
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\Guia_de_ejercicios\Practica_PP\PP_ComiqueriaApp\ComiqueriaLogica\obj\Debug\ComiqueriaLogica.pdb
