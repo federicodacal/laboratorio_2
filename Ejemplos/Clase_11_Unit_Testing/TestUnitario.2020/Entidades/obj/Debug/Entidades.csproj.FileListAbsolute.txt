@@ -1,0 +1,18 @@
+C:\Users\Maxi\source\repos\TestUnitario.2020\Entidades\bin\Debug\Entidades.dll
+C:\Users\Maxi\source\repos\TestUnitario.2020\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Maxi\source\repos\TestUnitario.2020\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Maxi\source\repos\TestUnitario.2020\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\TestUnitario.2020\Entidades\obj\Debug\Entidades.dll
+C:\Users\Maxi\source\repos\TestUnitario.2020\Entidades\obj\Debug\Entidades.pdb
+C:\Users\feder\Desktop\MiRepo\Un Repo\UnidadesSegundoParcial\TestUnitario.2020\Entidades\bin\Debug\Entidades.dll
+C:\Users\feder\Desktop\MiRepo\Un Repo\UnidadesSegundoParcial\TestUnitario.2020\Entidades\bin\Debug\Entidades.pdb
+C:\Users\feder\Desktop\MiRepo\Un Repo\UnidadesSegundoParcial\TestUnitario.2020\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\feder\Desktop\MiRepo\Un Repo\UnidadesSegundoParcial\TestUnitario.2020\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\MiRepo\Un Repo\UnidadesSegundoParcial\TestUnitario.2020\Entidades\obj\Debug\Entidades.dll
+C:\Users\feder\Desktop\MiRepo\Un Repo\UnidadesSegundoParcial\TestUnitario.2020\Entidades\obj\Debug\Entidades.pdb
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Ejemplos\Clase_11_Unit_Testing\TestUnitario.2020\Entidades\bin\Debug\Entidades.dll
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Ejemplos\Clase_11_Unit_Testing\TestUnitario.2020\Entidades\bin\Debug\Entidades.pdb
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Ejemplos\Clase_11_Unit_Testing\TestUnitario.2020\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Ejemplos\Clase_11_Unit_Testing\TestUnitario.2020\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Ejemplos\Clase_11_Unit_Testing\TestUnitario.2020\Entidades\obj\Debug\Entidades.dll
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Ejemplos\Clase_11_Unit_Testing\TestUnitario.2020\Entidades\obj\Debug\Entidades.pdb

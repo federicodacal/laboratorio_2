@@ -1,0 +1,14 @@
+C:\Users\Maxi\source\repos\Excepciones.2020\02\bin\Debug\02.exe.config
+C:\Users\Maxi\source\repos\Excepciones.2020\02\bin\Debug\02.exe
+C:\Users\Maxi\source\repos\Excepciones.2020\02\bin\Debug\02.pdb
+C:\Users\Maxi\source\repos\Excepciones.2020\02\obj\Debug\02.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\Excepciones.2020\02\obj\Debug\02.exe
+C:\Users\Maxi\source\repos\Excepciones.2020\02\obj\Debug\02.pdb
+C:\Users\Maxi\source\repos\Excepciones.2020\02\obj\Debug\02.csproj.AssemblyReference.cache
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Ejemplos\Clase_10_Excepciones\Excepciones.2020\02\bin\Debug\02.exe.config
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Ejemplos\Clase_10_Excepciones\Excepciones.2020\02\bin\Debug\02.exe
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Ejemplos\Clase_10_Excepciones\Excepciones.2020\02\bin\Debug\02.pdb
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Ejemplos\Clase_10_Excepciones\Excepciones.2020\02\obj\Debug\02.csproj.AssemblyReference.cache
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Ejemplos\Clase_10_Excepciones\Excepciones.2020\02\obj\Debug\02.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Ejemplos\Clase_10_Excepciones\Excepciones.2020\02\obj\Debug\02.exe
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Ejemplos\Clase_10_Excepciones\Excepciones.2020\02\obj\Debug\02.pdb
