@@ -1,0 +1,12 @@
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_PP\PP_Prestamos_2017\EntidadFinanciera\bin\Debug\net5.0\EntidadFinanciera.deps.json
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_PP\PP_Prestamos_2017\EntidadFinanciera\bin\Debug\net5.0\EntidadFinanciera.dll
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_PP\PP_Prestamos_2017\EntidadFinanciera\bin\Debug\net5.0\ref\EntidadFinanciera.dll
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_PP\PP_Prestamos_2017\EntidadFinanciera\bin\Debug\net5.0\EntidadFinanciera.pdb
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_PP\PP_Prestamos_2017\EntidadFinanciera\obj\Debug\net5.0\EntidadFinanciera.csproj.AssemblyReference.cache
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_PP\PP_Prestamos_2017\EntidadFinanciera\obj\Debug\net5.0\EntidadFinanciera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_PP\PP_Prestamos_2017\EntidadFinanciera\obj\Debug\net5.0\EntidadFinanciera.AssemblyInfoInputs.cache
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_PP\PP_Prestamos_2017\EntidadFinanciera\obj\Debug\net5.0\EntidadFinanciera.AssemblyInfo.cs
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_PP\PP_Prestamos_2017\EntidadFinanciera\obj\Debug\net5.0\EntidadFinanciera.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_PP\PP_Prestamos_2017\EntidadFinanciera\obj\Debug\net5.0\EntidadFinanciera.dll
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_PP\PP_Prestamos_2017\EntidadFinanciera\obj\Debug\net5.0\ref\EntidadFinanciera.dll
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_PP\PP_Prestamos_2017\EntidadFinanciera\obj\Debug\net5.0\EntidadFinanciera.pdb

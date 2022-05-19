@@ -10,7 +10,7 @@ namespace Entidades
     public class MiExcepcion : Exception
     {
 
-        public MiExcepcion(string message):base(message)
+        public MiExcepcion(string message):this(message, null)
         {
         }
 

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\Guia_de_ejercicios\\Practica_PP\\PP_Prestamos_2017\\EntidadFinanciera\\EntidadFinanciera.csproj",
+      "projectUniqueName": "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\laboratorio_2\\Guia_de_ejercicios\\Practica_PP\\PP_Prestamos_2017\\EntidadFinanciera\\EntidadFinanciera.csproj",
       "projectName": "EntidadFinanciera",
-      "projectPath": "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\Guia_de_ejercicios\\Practica_PP\\PP_Prestamos_2017\\EntidadFinanciera\\EntidadFinanciera.csproj",
+      "projectPath": "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\laboratorio_2\\Guia_de_ejercicios\\Practica_PP\\PP_Prestamos_2017\\EntidadFinanciera\\EntidadFinanciera.csproj",
       "packagesPath": "C:\\Users\\feder\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\Guia_de_ejercicios\\Practica_PP\\PP_Prestamos_2017\\EntidadFinanciera\\obj\\",
+      "outputPath": "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\laboratorio_2\\Guia_de_ejercicios\\Practica_PP\\PP_Prestamos_2017\\EntidadFinanciera\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

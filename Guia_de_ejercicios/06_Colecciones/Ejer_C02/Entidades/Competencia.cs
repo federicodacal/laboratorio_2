@@ -27,6 +27,10 @@ namespace Entidades
             this.tipo = tipo;
         }
 
+        public List<VehiculoDeCarrera> ListaCompetidores
+        {
+            get { return this.competidores; }
+        }
         public short CantidadCompetidores
         {
             get { return this.cantidadCompetidores; }
@@ -63,31 +67,38 @@ namespace Entidades
             bool rta = false;
             if(c is not null && v is not null)
             {
-                if(c.Tipo == TipoCompetencia.F1 && v is AutoF1)
+                if(c.Tipo == TipoCompetencia.F1 && v.GetType() != typeof(AutoF1) || c.Tipo == TipoCompetencia.MotoCross && v.GetType() != typeof(MotoCross))
                 {
-                    foreach (VehiculoDeCarrera item in c.competidores)
-                    {
-                        if(item as AutoF1 == (AutoF1)v)
-                        {
-                            rta = true;
-                            break;
-                        }
-                    }
-                }
-                else if(c.Tipo == TipoCompetencia.MotoCross && v is MotoCross)
-                {
-                    foreach (VehiculoDeCarrera item in c.competidores)
-                    {
-                        if (item as MotoCross == (MotoCross)v)
-                        {
-                            rta = true;
-                            break;
-                        }
-                    }
+                    throw new CompetenciaNoDisponibleException("El vehiculo no corresponde a la competencia", "Competencia", "==");
                 }
                 else
                 {
-                    rta = true;
+                    if(c.Tipo == TipoCompetencia.F1 && v.GetType() == typeof(AutoF1))
+                    {
+                        foreach (VehiculoDeCarrera item in c.competidores)
+                        {
+                            if(item as AutoF1 == (AutoF1)v)
+                            {
+                                rta = true;
+                                break;
+                            }
+                        }
+                    }
+                    else if(c.Tipo == TipoCompetencia.MotoCross && v.GetType() == typeof(MotoCross))
+                    {
+                        foreach (VehiculoDeCarrera item in c.competidores)
+                        {
+                            if (item as MotoCross == (MotoCross)v)
+                            {
+                                rta = true;
+                                break;
+                            }
+                        }
+                    }
+                    else
+                    {
+                        rta = true;
+                    }
                 }
             }
             return rta;
@@ -102,13 +113,25 @@ namespace Entidades
         {
             Random r = new Random();
             bool rta = false;
-            if(c != v && c.competidores.Count < c.cantidadCompetidores)
+
+            try
             {
-                c.competidores.Add(v);
-                v.EnCompetencia = true;
-                v.CantidadCombustible = (short)r.Next(15, 100);
-                v.VueltasRestantes = c.cantidadVueltas;
-                rta = true;
+                if(c != v && c.competidores.Count < c.cantidadCompetidores)
+                {
+                    c.competidores.Add(v);
+                    v.EnCompetencia = true;
+                    v.CantidadCombustible = (short)r.Next(15, 100);
+                    v.VueltasRestantes = c.cantidadVueltas;
+                    rta = true;
+                }
+            }
+            catch (CompetenciaNoDisponibleException e)
+            {
+                throw new CompetenciaNoDisponibleException("Competencia Incorrecta", "Competencia", "+", e);
+            }
+            catch (Exception)
+            {
+
             }
             return rta;
         }
