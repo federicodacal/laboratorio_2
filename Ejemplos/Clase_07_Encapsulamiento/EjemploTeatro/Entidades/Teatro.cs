@@ -8,14 +8,38 @@ namespace Entidades
     {
         private string nombre;
         private List<Espectador> espectadores;
+        private List<Funcion> obrasDisponibles;
         private int capacidad;
 
         public Teatro()
         {
             this.nombre = "Teatro de Juana";
+            this.capacidad = 100;
             this.espectadores = new List<Espectador>();
-            this.capacidad = 10;
+            this.obrasDisponibles = new List<Funcion>();
+            this.obrasDisponibles.Add(new Funcion("La Traviata", new DateTime(2022, 5, 22)));
+            this.obrasDisponibles.Add(new Funcion("La Traviata", new DateTime(2022, 6, 1)));
+            this.obrasDisponibles.Add(new Funcion("La Traviata", new DateTime(2022, 6, 4)));
+            this.obrasDisponibles.Add(new Funcion("Medea", new DateTime(2022, 5, 23)));
+            this.obrasDisponibles.Add(new Funcion("Medea", new DateTime(2022, 6, 20)));
+            this.obrasDisponibles.Add(new Funcion("Norma", new DateTime(2022, 5, 24)));
+            this.obrasDisponibles.Add(new Funcion("Carmen", new DateTime(2022, 5, 25)));
+            this.obrasDisponibles.Add(new Funcion("Carmen", new DateTime(2022, 7, 22)));
+            this.obrasDisponibles.Add(new Funcion("Tosca", new DateTime(2022, 5, 26)));
+            this.obrasDisponibles.Add(new Funcion("Rusalka", new DateTime(2022, 5, 27)));
+            this.obrasDisponibles.Add(new Funcion("Lago de los Cisnes", new DateTime(2022, 5, 28)));
+            this.obrasDisponibles.Add(new Funcion("Lago de los Cisnes", new DateTime(2022, 6, 12)));
+            this.obrasDisponibles.Add(new Funcion("Lago de los Cisnes", new DateTime(2022, 7, 5)));
+            this.obrasDisponibles.Add(new Funcion("Madame Butterfly", new DateTime(2022, 8, 5)));
+            this.obrasDisponibles.Add(new Funcion("Romeo y Julieta", new DateTime(2022, 5, 29)));
+            this.obrasDisponibles.Add(new Funcion("Tristan e Isolda", new DateTime(2022, 5, 30)));
         }
+
+        public List<Funcion> ObrasDisponbiles
+        {
+            get { return this.obrasDisponibles; }
+        }
+
 
         public string Nombre
         {
@@ -25,6 +49,24 @@ namespace Entidades
         public List<Espectador> Espectadores
         {
             get { return this.espectadores; }
+        }
+
+        public Funcion this[string nombreObra, DateTime dt]
+        {
+            get
+            {
+                if(!String.IsNullOrEmpty(nombreObra))
+                {
+                    foreach (Funcion item in this.ObrasDisponbiles)
+                    {
+                        if(item.Fecha == dt && item.Obra == nombreObra)
+                        {
+                            return item;
+                        }
+                    }
+                }
+                return null;
+            }
         }
 
         public Espectador this[int dni]
@@ -67,7 +109,7 @@ namespace Entidades
         public static bool operator +(Teatro t, Espectador e)
         {
             bool rta = false;
-            if(t.Espectadores.Count < t.capacidad && t != e)
+            if(t != e)
             {
                 t.Espectadores.Add(e);
                 rta = true;

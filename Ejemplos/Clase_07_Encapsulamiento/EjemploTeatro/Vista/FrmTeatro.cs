@@ -23,7 +23,7 @@ namespace Vista
         public FrmTeatro()
         {
             InitializeComponent();
-            teatro = new Teatro();
+            this.teatro = new Teatro();
         }
 
         private void btnComprarEntrada_Click(object sender, EventArgs e)
@@ -32,10 +32,6 @@ namespace Vista
             if (frmEntrada.ShowDialog() == DialogResult.OK)
             {
                 this.rtbEspectadores.Text = this.teatro.MostrarEspectadores();
-            }
-            else
-            {
-                MessageBox.Show("Error");
             }
         }
     }

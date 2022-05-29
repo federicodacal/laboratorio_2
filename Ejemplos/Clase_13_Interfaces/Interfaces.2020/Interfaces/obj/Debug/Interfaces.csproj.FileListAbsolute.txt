@@ -1,0 +1,12 @@
+C:\Users\Maxi\source\repos\Interfaces.2020\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\Maxi\source\repos\Interfaces.2020\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Maxi\source\repos\Interfaces.2020\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+C:\Users\Maxi\source\repos\Interfaces.2020\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\Interfaces.2020\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\Maxi\source\repos\Interfaces.2020\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Ejemplos\Clase_13_Interfaces\Interfaces.2020\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Ejemplos\Clase_13_Interfaces\Interfaces.2020\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Ejemplos\Clase_13_Interfaces\Interfaces.2020\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Ejemplos\Clase_13_Interfaces\Interfaces.2020\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Ejemplos\Clase_13_Interfaces\Interfaces.2020\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Ejemplos\Clase_13_Interfaces\Interfaces.2020\Interfaces\obj\Debug\Interfaces.pdb

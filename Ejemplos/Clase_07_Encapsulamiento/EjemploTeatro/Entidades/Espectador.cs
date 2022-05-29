@@ -64,7 +64,7 @@ namespace Entidades
             get { return this.dni; }
             set
             {
-                if (value > 0 && value.ToString().Length > 5 && value.ToString().Length < 12)
+                if (Espectador.ValidarAtrNumerico(value, 5, 12))                    
                 {
                     this.dni = value;
                 }
@@ -76,11 +76,16 @@ namespace Entidades
             get { return this.telefono; }
             set 
             { 
-                if(value > 0 && value.ToString().Length > 4 && value.ToString().Length < 15)
+                if(Espectador.ValidarAtrNumerico(value, 5, 15))
                 {
                     this.telefono = value; 
                 }
             }
+        }
+
+        public static bool ValidarAtrNumerico(long num, int minLength, int maxLength)
+        {
+            return num > 0 && num.ToString().Length > minLength && num.ToString().Length < maxLength;
         }
 
         public int CantidadEntradas
@@ -122,13 +127,14 @@ namespace Entidades
             return !(e1 == e2);
         }
 
-        public void ComprarEntrada(string obra, DateTime funcion, int cantidad)
+        public void ComprarEntrada(Funcion funcion, int cantidad)
         {
-            if(!String.IsNullOrEmpty(obra) && cantidad > 0)
+            if(funcion is not null && cantidad > 0)
             {
                 for (int i = 0; i < cantidad; i++)
                 {
-                    this.entradas.Add(new Entrada(obra, funcion));
+                    this.entradas.Add(new Entrada(funcion, this));
+                    funcion.EntradasDisponibles--;
                 }
             }
         }

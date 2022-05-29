@@ -15,7 +15,7 @@ namespace Entidades
 
         static Producto()
         {
-            generadorDePrecios = new Random();
+            Producto.generadorDePrecios = new Random();
         }
 
         public Producto(string modelo, Fabricante fabricante)

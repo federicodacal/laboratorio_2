@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\Guia_de_ejercicios\\03_OOP\\Ejer_Usuario\\UI\\UI.csproj": {}
+    "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\laboratorio_2\\Guia_de_ejercicios\\03_OOP\\Ejer_Usuario\\UI\\UI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\Guia_de_ejercicios\\03_OOP\\Ejer_Usuario\\Entidades\\Entidades.csproj": {
+    "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\laboratorio_2\\Guia_de_ejercicios\\03_OOP\\Ejer_Usuario\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\Guia_de_ejercicios\\03_OOP\\Ejer_Usuario\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\laboratorio_2\\Guia_de_ejercicios\\03_OOP\\Ejer_Usuario\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\Guia_de_ejercicios\\03_OOP\\Ejer_Usuario\\Entidades\\Entidades.csproj",
+        "projectPath": "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\laboratorio_2\\Guia_de_ejercicios\\03_OOP\\Ejer_Usuario\\Entidades\\Entidades.csproj",
         "packagesPath": "C:\\Users\\feder\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\Guia_de_ejercicios\\03_OOP\\Ejer_Usuario\\Entidades\\obj\\",
+        "outputPath": "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\laboratorio_2\\Guia_de_ejercicios\\03_OOP\\Ejer_Usuario\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -61,14 +61,14 @@
         }
       }
     },
-    "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\Guia_de_ejercicios\\03_OOP\\Ejer_Usuario\\UI\\UI.csproj": {
+    "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\laboratorio_2\\Guia_de_ejercicios\\03_OOP\\Ejer_Usuario\\UI\\UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\Guia_de_ejercicios\\03_OOP\\Ejer_Usuario\\UI\\UI.csproj",
+        "projectUniqueName": "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\laboratorio_2\\Guia_de_ejercicios\\03_OOP\\Ejer_Usuario\\UI\\UI.csproj",
         "projectName": "UI",
-        "projectPath": "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\Guia_de_ejercicios\\03_OOP\\Ejer_Usuario\\UI\\UI.csproj",
+        "projectPath": "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\laboratorio_2\\Guia_de_ejercicios\\03_OOP\\Ejer_Usuario\\UI\\UI.csproj",
         "packagesPath": "C:\\Users\\feder\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\Guia_de_ejercicios\\03_OOP\\Ejer_Usuario\\UI\\obj\\",
+        "outputPath": "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\laboratorio_2\\Guia_de_ejercicios\\03_OOP\\Ejer_Usuario\\UI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -88,8 +88,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\Guia_de_ejercicios\\03_OOP\\Ejer_Usuario\\Entidades\\Entidades.csproj": {
-                "projectPath": "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\Guia_de_ejercicios\\03_OOP\\Ejer_Usuario\\Entidades\\Entidades.csproj"
+              "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\laboratorio_2\\Guia_de_ejercicios\\03_OOP\\Ejer_Usuario\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\laboratorio_2\\Guia_de_ejercicios\\03_OOP\\Ejer_Usuario\\Entidades\\Entidades.csproj"
               }
             }
           }

@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = Vista
-build_property.ProjectDir = C:\Users\feder\Desktop\UTN_Prog_Lab_2\Guia_de_ejercicios\03_OOP\Ejer_Usuario\Vista\
+build_property.ProjectDir = C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\03_OOP\Ejer_Usuario\Vista\

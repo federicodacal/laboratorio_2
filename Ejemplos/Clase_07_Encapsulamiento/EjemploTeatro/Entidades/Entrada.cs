@@ -8,31 +8,27 @@ namespace Entidades
 {
     public class Entrada
     {
-        private string nombreObra;
-        private DateTime fechaFuncion;
+        private Funcion funcion;
         private int codigoTicket;
         private static int ultimoCodigo;
+        private Espectador espectador;
 
         static Entrada()
         {
             Entrada.ultimoCodigo = 100;
         }
 
-        public Entrada(string nombreObra, DateTime fechaFuncion)
+        public Entrada(Funcion funcion, Espectador espectador)
         {
-            this.nombreObra = nombreObra;
-            this.fechaFuncion = fechaFuncion;
+            this.funcion = funcion;
+            this.espectador = espectador;
             this.codigoTicket = Entrada.ultimoCodigo++;
-        }
-
-        public string NombreObra
-        {
-            get { return this.nombreObra; }
         }
 
         public string Mostrar()
         {
-            return $"{this.nombreObra} | Ticket: {this.codigoTicket} | Funcion: {this.fechaFuncion.ToShortDateString()}";
+            return $"{this.funcion} | Ticket: {this.codigoTicket} | Funcion: {this.funcion.Fecha.ToShortDateString()}";
         }
+
     }
 }

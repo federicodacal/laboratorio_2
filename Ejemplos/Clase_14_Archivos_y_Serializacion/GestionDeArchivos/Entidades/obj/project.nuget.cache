@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rbkSW1bfX1f7FVtsQktJdv4+EuEdTGqhDCNnXtO4OzDGFNb6gXdg9QOTDh4hOLQhzpQsUbGb+R1b0us4WFV/tQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\laboratorio_2\\Ejemplos\\Clase_14_Archivos_y_Serializacion\\GestionDeArchivos\\Entidades\\Entidades.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\feder\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oiI2gcOQPRE2gcy2qg60beHa/OhztQAQDWPymo3n3u3Z5hbB/m2yu+V4KNULy7uCNLN3dSWVCmsgIhTp7yHn4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\laboratorio_2\\Ejemplos\\Clase_14_Archivos_y_Serializacion\\GestionDeArchivos\\ConsolaSerializacion\\ConsolaSerializacion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\feder\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
