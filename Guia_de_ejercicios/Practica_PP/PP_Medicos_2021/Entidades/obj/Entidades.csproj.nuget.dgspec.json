@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\Guia_de_ejercicios\\Practica_PP\\PP_Medicos_2021\\Entidades\\Entidades.csproj": {}
+    "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\laboratorio_2\\Guia_de_ejercicios\\Practica_PP\\PP_Medicos_2021\\Entidades\\Entidades.csproj": {}
   },
   "projects": {
-    "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\Guia_de_ejercicios\\Practica_PP\\PP_Medicos_2021\\Entidades\\Entidades.csproj": {
+    "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\laboratorio_2\\Guia_de_ejercicios\\Practica_PP\\PP_Medicos_2021\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\Guia_de_ejercicios\\Practica_PP\\PP_Medicos_2021\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\laboratorio_2\\Guia_de_ejercicios\\Practica_PP\\PP_Medicos_2021\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\Guia_de_ejercicios\\Practica_PP\\PP_Medicos_2021\\Entidades\\Entidades.csproj",
+        "projectPath": "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\laboratorio_2\\Guia_de_ejercicios\\Practica_PP\\PP_Medicos_2021\\Entidades\\Entidades.csproj",
         "packagesPath": "C:\\Users\\feder\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\Guia_de_ejercicios\\Practica_PP\\PP_Medicos_2021\\Entidades\\obj\\",
+        "outputPath": "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\laboratorio_2\\Guia_de_ejercicios\\Practica_PP\\PP_Medicos_2021\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

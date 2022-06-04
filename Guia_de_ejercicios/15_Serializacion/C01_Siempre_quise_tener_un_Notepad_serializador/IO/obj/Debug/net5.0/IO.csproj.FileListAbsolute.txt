@@ -1,0 +1,12 @@
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\15_Serializacion\C01_Siempre_quise_tener_un_Notepad_serializador\IO\bin\Debug\net5.0\IO.deps.json
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\15_Serializacion\C01_Siempre_quise_tener_un_Notepad_serializador\IO\bin\Debug\net5.0\IO.dll
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\15_Serializacion\C01_Siempre_quise_tener_un_Notepad_serializador\IO\bin\Debug\net5.0\ref\IO.dll
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\15_Serializacion\C01_Siempre_quise_tener_un_Notepad_serializador\IO\bin\Debug\net5.0\IO.pdb
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\15_Serializacion\C01_Siempre_quise_tener_un_Notepad_serializador\IO\obj\Debug\net5.0\IO.csproj.AssemblyReference.cache
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\15_Serializacion\C01_Siempre_quise_tener_un_Notepad_serializador\IO\obj\Debug\net5.0\IO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\15_Serializacion\C01_Siempre_quise_tener_un_Notepad_serializador\IO\obj\Debug\net5.0\IO.AssemblyInfoInputs.cache
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\15_Serializacion\C01_Siempre_quise_tener_un_Notepad_serializador\IO\obj\Debug\net5.0\IO.AssemblyInfo.cs
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\15_Serializacion\C01_Siempre_quise_tener_un_Notepad_serializador\IO\obj\Debug\net5.0\IO.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\15_Serializacion\C01_Siempre_quise_tener_un_Notepad_serializador\IO\obj\Debug\net5.0\IO.dll
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\15_Serializacion\C01_Siempre_quise_tener_un_Notepad_serializador\IO\obj\Debug\net5.0\ref\IO.dll
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\15_Serializacion\C01_Siempre_quise_tener_un_Notepad_serializador\IO\obj\Debug\net5.0\IO.pdb

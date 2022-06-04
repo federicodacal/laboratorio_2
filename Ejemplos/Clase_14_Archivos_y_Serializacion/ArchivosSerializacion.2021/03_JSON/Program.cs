@@ -13,7 +13,7 @@ namespace _03_JSON
 
             string obj_json = System.Text.Json.JsonSerializer.Serialize(obj);
 
-            Console.WriteLine(obj_json); // {}
+            Console.WriteLine(obj_json); // {} json vacio porque Dato no tiene propiedades
 
             #endregion
 

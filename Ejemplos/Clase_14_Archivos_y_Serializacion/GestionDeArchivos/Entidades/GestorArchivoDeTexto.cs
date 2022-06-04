@@ -35,9 +35,9 @@ namespace Entidades
             string data = String.Empty;
             try
             {
-                using (StreamReader sw = new StreamReader(Path.Combine(GestorArchivoDeTexto.rutaBase, $"{path}.txt")))
+                using (StreamReader sr = new StreamReader(Path.Combine(GestorArchivoDeTexto.rutaBase, $"{path}.txt")))
                 {
-                    data = sw.ReadToEnd();
+                    data = sr.ReadToEnd();
                 }
             }
             catch (Exception ex)
