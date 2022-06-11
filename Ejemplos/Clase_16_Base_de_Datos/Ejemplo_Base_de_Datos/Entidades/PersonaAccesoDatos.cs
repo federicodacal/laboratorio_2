@@ -44,7 +44,10 @@ namespace Entidades
             }
             finally
             {
-                connection.Close();
+                if (connection.State == System.Data.ConnectionState.Open)
+                {
+                    connection.Close();
+                }
             }
         }
 
@@ -64,7 +67,10 @@ namespace Entidades
             }
             finally
             {
-                connection.Close();
+                if (connection.State == System.Data.ConnectionState.Open)
+                {
+                    connection.Close();
+                }
             }
         }
 
@@ -86,7 +92,10 @@ namespace Entidades
             }
             finally
             {
-                connection.Close();
+                if (connection.State == System.Data.ConnectionState.Open)
+                {
+                    connection.Close();
+                }
             }
         }
 
@@ -109,7 +118,10 @@ namespace Entidades
             }
             finally
             {
-                connection.Close();
+                if(connection.State == System.Data.ConnectionState.Open)
+                {
+                    connection.Close();
+                }
             }
         }
     }

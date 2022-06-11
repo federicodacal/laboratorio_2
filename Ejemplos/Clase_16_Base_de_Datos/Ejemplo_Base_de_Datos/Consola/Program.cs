@@ -9,8 +9,7 @@ namespace Consola
         static void Main(string[] args)
         {
             try
-            {
-                /*
+            { 
                 Console.WriteLine("*********** READ ***********");
                 List<Persona> personas = PersonaAccesoDatos.Leer();
 
@@ -20,9 +19,10 @@ namespace Consola
                 }
 
                 Console.WriteLine();
+                Console.WriteLine();
 
                 Console.WriteLine("*********** DELETE by ID ***********");
-                PersonaAccesoDatos.Eliminar(5);
+                PersonaAccesoDatos.Eliminar(8);
 
                 personas = PersonaAccesoDatos.Leer();
                 foreach (Persona item in personas)
@@ -31,9 +31,10 @@ namespace Consola
                 }
 
                 Console.WriteLine();
+                Console.WriteLine();
                 Console.WriteLine("*********** INSERT ***********");
 
-                Persona persona = new Persona("Lautaro", "Galarza", 25);
+                Persona persona = new Persona("Ale", "Bonggio", 30);
 
                 PersonaAccesoDatos.Guardar(persona);
 
@@ -42,14 +43,17 @@ namespace Consola
                 {
                     Console.WriteLine(item.ToString());
                 }
-                */
+
+                Console.WriteLine();
+                Console.WriteLine();
+                
                 Console.WriteLine("*********** UPDATE ***********");
-                Persona persona = new Persona(6, "Lucas", "Rodriguez", 28);
+                Persona otraPersona = new Persona(6, "Lucas Damian", "Rodriguez", 29);
 
-                PersonaAccesoDatos.Modificar(persona);
+                PersonaAccesoDatos.Modificar(otraPersona);
 
-                List<Persona> lista2 = PersonaAccesoDatos.Leer();
-                foreach (Persona item in lista2)
+                List<Persona> lista3 = PersonaAccesoDatos.Leer();
+                foreach (Persona item in lista3)
                 {
                     Console.WriteLine(item.ToString());
                 }
@@ -58,8 +62,7 @@ namespace Consola
             catch (Exception ex)
             {
                 Console.WriteLine(ex.Message);
-            }
-            
+            }    
         }
     }
 }

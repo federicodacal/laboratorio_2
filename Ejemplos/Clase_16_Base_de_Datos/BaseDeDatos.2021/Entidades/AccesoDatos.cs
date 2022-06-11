@@ -20,7 +20,7 @@ namespace Entidades
 
         static AccesoDatos()
         {
-            AccesoDatos.cadena_conexion = @"Server=localhost\SQLEXPRESS;Database=Test;Trusted_Connection=True;";
+            AccesoDatos.cadena_conexion = @"Server=localhost;Database=Test;Trusted_Connection=True;";
         }
 
         public AccesoDatos()
@@ -46,6 +46,7 @@ namespace Entidades
             catch (Exception)
             {
                 rta = false;
+                throw;
             }
             finally
             {
@@ -54,8 +55,8 @@ namespace Entidades
                     this.conexion.Close();
                 }
             }
-
             return rta;
+
         }
 
         #endregion
@@ -83,10 +84,16 @@ namespace Entidades
                     Dato item = new Dato();
 
                     // ACCEDO POR NOMBRE, POR INDICE O POR GETTER (SEGUN TIPO DE DATO)
-                    item.id = (int)lector["id"];
-                    item.cadena = lector[1].ToString();
+                    // LOS ATRIBUTOS de DATO SON PÚBLICOS
+                    //item.id = (int)lector["id"];
+                    //item.cadena = lector[1].ToString();
+                    //item.entero = lector.GetInt32(2); // Más óptima
+                    //item.flotante = float.Parse(lector[3].ToString());
+                                        
+                    item.id = lector.GetInt32(0);
+                    item.cadena = lector.GetString(1);
                     item.entero = lector.GetInt32(2);
-                    item.flotante = float.Parse(lector[3].ToString());
+                    item.flotante = Convert.ToSingle(lector.GetDouble(3)); // Cuidado!!! Si el dato en la tabla es 'float' necesito usar GetDouble() y convertirlo a Single (float).
 
                     lista.Add(item);
                 }

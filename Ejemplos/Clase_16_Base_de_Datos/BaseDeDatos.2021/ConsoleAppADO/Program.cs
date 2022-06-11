@@ -10,15 +10,18 @@ namespace ConsoleAppADO
         {
 
             AccesoDatos ado = new AccesoDatos();
-
-            if (ado.ProbarConexion())
+            try
             {
-                Console.WriteLine("Se conectó!!!");
+                if (ado.ProbarConexion())
+                {
+                    Console.WriteLine("Se conectó!!!");
+                }
             }
-            else
+            catch (Exception e)
             {
-                Console.WriteLine("No se conectó.");
+                Console.WriteLine("No se conectó: {0}", e.Message);
             }
+            
 
             List<Dato> lista = ado.ObtenerListaDato();
 
@@ -28,9 +31,9 @@ namespace ConsoleAppADO
             }
             
             Dato obj = new Dato();
-            obj.cadena = "nuevo";
-            obj.entero = 100;
-            obj.flotante = 33f;
+            obj.cadena = "nuevo2";
+            obj.entero = 101;
+            obj.flotante = 33.1f;
 
             bool agrego = ado.AgregarDato(obj);
 
@@ -50,10 +53,10 @@ namespace ConsoleAppADO
                 Console.WriteLine(item.ToString());
             }
 
-            obj.id = 3;
-            obj.cadena = "modificado";
-            obj.entero = 666;
-            obj.flotante = 0.99f;
+            obj.id = 4;
+            obj.cadena = "modificado!!!";
+            obj.entero = 665;
+            obj.flotante = 0.95f;
 
             bool modifico = ado.ModificarDato(obj);
 
@@ -73,7 +76,7 @@ namespace ConsoleAppADO
                 Console.WriteLine(item.ToString());
             }
 
-            bool elimino = ado.EliminarDato(4);
+            bool elimino = ado.EliminarDato(8);
 
             if (elimino)
             {
