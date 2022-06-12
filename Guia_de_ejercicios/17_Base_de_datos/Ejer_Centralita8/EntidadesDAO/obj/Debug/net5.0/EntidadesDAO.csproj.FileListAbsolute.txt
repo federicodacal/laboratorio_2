@@ -1,0 +1,15 @@
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\17_Base_de_datos\Ejer_Centralita8\EntidadesDAO\bin\Debug\net5.0\EntidadesDAO.deps.json
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\17_Base_de_datos\Ejer_Centralita8\EntidadesDAO\bin\Debug\net5.0\EntidadesDAO.dll
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\17_Base_de_datos\Ejer_Centralita8\EntidadesDAO\bin\Debug\net5.0\ref\EntidadesDAO.dll
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\17_Base_de_datos\Ejer_Centralita8\EntidadesDAO\bin\Debug\net5.0\EntidadesDAO.pdb
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\17_Base_de_datos\Ejer_Centralita8\EntidadesDAO\bin\Debug\net5.0\Entidades.dll
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\17_Base_de_datos\Ejer_Centralita8\EntidadesDAO\bin\Debug\net5.0\Entidades.pdb
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\17_Base_de_datos\Ejer_Centralita8\EntidadesDAO\obj\Debug\net5.0\EntidadesDAO.csproj.AssemblyReference.cache
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\17_Base_de_datos\Ejer_Centralita8\EntidadesDAO\obj\Debug\net5.0\EntidadesDAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\17_Base_de_datos\Ejer_Centralita8\EntidadesDAO\obj\Debug\net5.0\EntidadesDAO.AssemblyInfoInputs.cache
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\17_Base_de_datos\Ejer_Centralita8\EntidadesDAO\obj\Debug\net5.0\EntidadesDAO.AssemblyInfo.cs
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\17_Base_de_datos\Ejer_Centralita8\EntidadesDAO\obj\Debug\net5.0\EntidadesDAO.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\17_Base_de_datos\Ejer_Centralita8\EntidadesDAO\obj\Debug\net5.0\EntidadesDAO.csproj.CopyComplete
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\17_Base_de_datos\Ejer_Centralita8\EntidadesDAO\obj\Debug\net5.0\EntidadesDAO.dll
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\17_Base_de_datos\Ejer_Centralita8\EntidadesDAO\obj\Debug\net5.0\ref\EntidadesDAO.dll
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\17_Base_de_datos\Ejer_Centralita8\EntidadesDAO\obj\Debug\net5.0\EntidadesDAO.pdb
