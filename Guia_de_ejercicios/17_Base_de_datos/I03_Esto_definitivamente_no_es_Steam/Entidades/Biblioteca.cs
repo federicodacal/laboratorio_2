@@ -13,11 +13,12 @@ namespace Entidades
         private string juego;
         private string usuario;
 
-        public Biblioteca(string genero, string juego, string usuario)
+        public Biblioteca(string genero, string juego, string usuario, int codigoJuego)
         {
             this.genero = genero;
             this.juego = juego;
             this.usuario = usuario;
+            this.codigoJuego = codigoJuego;
         }
 
         public int CodigoJuego { get => codigoJuego; }

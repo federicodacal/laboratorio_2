@@ -26,6 +26,33 @@ namespace Entidades
         public static List<Usuario> Leer()
         {
             List<Usuario> usuarios = new List<Usuario>();
+            try
+            {
+                connection.Open();
+                command.CommandText = "SELECT CODIGO_USUARIO, USERNAME FROM USUARIOS";
+
+                SqlDataReader dataReader = command.ExecuteReader();
+
+                while (dataReader.Read())
+                {
+                    usuarios.Add(new Usuario(
+                        Convert.ToInt32(dataReader["CODIGO_USUARIO"]), 
+                        dataReader["USERNAME"].ToString()));
+                }
+
+                return usuarios;
+            }
+            catch (Exception e) 
+            {
+                throw new Exception(e.Message, e);
+            }
+            finally
+            {
+                if (connection.State == System.Data.ConnectionState.Open)
+                {
+                    connection.Close();
+                }
+            }
         }
     }
 }
