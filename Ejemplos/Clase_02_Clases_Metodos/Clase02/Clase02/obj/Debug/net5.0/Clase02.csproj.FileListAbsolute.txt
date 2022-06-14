@@ -1,0 +1,16 @@
+C:\Users\Maxi\source\repos\2022_NetCore5\Clase02\Clase02\bin\Debug\net5.0\Clase02.exe
+C:\Users\Maxi\source\repos\2022_NetCore5\Clase02\Clase02\bin\Debug\net5.0\Clase02.deps.json
+C:\Users\Maxi\source\repos\2022_NetCore5\Clase02\Clase02\bin\Debug\net5.0\Clase02.runtimeconfig.json
+C:\Users\Maxi\source\repos\2022_NetCore5\Clase02\Clase02\bin\Debug\net5.0\Clase02.runtimeconfig.dev.json
+C:\Users\Maxi\source\repos\2022_NetCore5\Clase02\Clase02\bin\Debug\net5.0\Clase02.dll
+C:\Users\Maxi\source\repos\2022_NetCore5\Clase02\Clase02\bin\Debug\net5.0\ref\Clase02.dll
+C:\Users\Maxi\source\repos\2022_NetCore5\Clase02\Clase02\bin\Debug\net5.0\Clase02.pdb
+C:\Users\Maxi\source\repos\2022_NetCore5\Clase02\Clase02\obj\Debug\net5.0\Clase02.csproj.AssemblyReference.cache
+C:\Users\Maxi\source\repos\2022_NetCore5\Clase02\Clase02\obj\Debug\net5.0\Clase02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxi\source\repos\2022_NetCore5\Clase02\Clase02\obj\Debug\net5.0\Clase02.AssemblyInfoInputs.cache
+C:\Users\Maxi\source\repos\2022_NetCore5\Clase02\Clase02\obj\Debug\net5.0\Clase02.AssemblyInfo.cs
+C:\Users\Maxi\source\repos\2022_NetCore5\Clase02\Clase02\obj\Debug\net5.0\Clase02.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\2022_NetCore5\Clase02\Clase02\obj\Debug\net5.0\Clase02.dll
+C:\Users\Maxi\source\repos\2022_NetCore5\Clase02\Clase02\obj\Debug\net5.0\ref\Clase02.dll
+C:\Users\Maxi\source\repos\2022_NetCore5\Clase02\Clase02\obj\Debug\net5.0\Clase02.pdb
+C:\Users\Maxi\source\repos\2022_NetCore5\Clase02\Clase02\obj\Debug\net5.0\Clase02.genruntimeconfig.cache

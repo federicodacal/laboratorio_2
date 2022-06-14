@@ -1,0 +1,12 @@
+C:\Users\feder\Desktop\MiRepo\Un Repo\EjemploClaseSobrecarga\Cosa\bin\Debug\net5.0\Cosa.deps.json
+C:\Users\feder\Desktop\MiRepo\Un Repo\EjemploClaseSobrecarga\Cosa\bin\Debug\net5.0\Cosa.dll
+C:\Users\feder\Desktop\MiRepo\Un Repo\EjemploClaseSobrecarga\Cosa\bin\Debug\net5.0\ref\Cosa.dll
+C:\Users\feder\Desktop\MiRepo\Un Repo\EjemploClaseSobrecarga\Cosa\bin\Debug\net5.0\Cosa.pdb
+C:\Users\feder\Desktop\MiRepo\Un Repo\EjemploClaseSobrecarga\Cosa\obj\Debug\net5.0\Cosa.csproj.AssemblyReference.cache
+C:\Users\feder\Desktop\MiRepo\Un Repo\EjemploClaseSobrecarga\Cosa\obj\Debug\net5.0\Cosa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feder\Desktop\MiRepo\Un Repo\EjemploClaseSobrecarga\Cosa\obj\Debug\net5.0\Cosa.AssemblyInfoInputs.cache
+C:\Users\feder\Desktop\MiRepo\Un Repo\EjemploClaseSobrecarga\Cosa\obj\Debug\net5.0\Cosa.AssemblyInfo.cs
+C:\Users\feder\Desktop\MiRepo\Un Repo\EjemploClaseSobrecarga\Cosa\obj\Debug\net5.0\Cosa.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\MiRepo\Un Repo\EjemploClaseSobrecarga\Cosa\obj\Debug\net5.0\Cosa.dll
+C:\Users\feder\Desktop\MiRepo\Un Repo\EjemploClaseSobrecarga\Cosa\obj\Debug\net5.0\ref\Cosa.dll
+C:\Users\feder\Desktop\MiRepo\Un Repo\EjemploClaseSobrecarga\Cosa\obj\Debug\net5.0\Cosa.pdb

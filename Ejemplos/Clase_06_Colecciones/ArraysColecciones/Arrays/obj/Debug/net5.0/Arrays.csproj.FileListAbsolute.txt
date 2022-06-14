@@ -1,0 +1,16 @@
+C:\Users\Maxi\source\repos\2022_NetCore5\ArraysColecciones\Arrays\bin\Debug\net5.0\Arrays.exe
+C:\Users\Maxi\source\repos\2022_NetCore5\ArraysColecciones\Arrays\bin\Debug\net5.0\Arrays.deps.json
+C:\Users\Maxi\source\repos\2022_NetCore5\ArraysColecciones\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.json
+C:\Users\Maxi\source\repos\2022_NetCore5\ArraysColecciones\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.dev.json
+C:\Users\Maxi\source\repos\2022_NetCore5\ArraysColecciones\Arrays\bin\Debug\net5.0\Arrays.dll
+C:\Users\Maxi\source\repos\2022_NetCore5\ArraysColecciones\Arrays\bin\Debug\net5.0\ref\Arrays.dll
+C:\Users\Maxi\source\repos\2022_NetCore5\ArraysColecciones\Arrays\bin\Debug\net5.0\Arrays.pdb
+C:\Users\Maxi\source\repos\2022_NetCore5\ArraysColecciones\Arrays\obj\Debug\net5.0\Arrays.csproj.AssemblyReference.cache
+C:\Users\Maxi\source\repos\2022_NetCore5\ArraysColecciones\Arrays\obj\Debug\net5.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxi\source\repos\2022_NetCore5\ArraysColecciones\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\Maxi\source\repos\2022_NetCore5\ArraysColecciones\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfo.cs
+C:\Users\Maxi\source\repos\2022_NetCore5\ArraysColecciones\Arrays\obj\Debug\net5.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\2022_NetCore5\ArraysColecciones\Arrays\obj\Debug\net5.0\Arrays.dll
+C:\Users\Maxi\source\repos\2022_NetCore5\ArraysColecciones\Arrays\obj\Debug\net5.0\ref\Arrays.dll
+C:\Users\Maxi\source\repos\2022_NetCore5\ArraysColecciones\Arrays\obj\Debug\net5.0\Arrays.pdb
+C:\Users\Maxi\source\repos\2022_NetCore5\ArraysColecciones\Arrays\obj\Debug\net5.0\Arrays.genruntimeconfig.cache

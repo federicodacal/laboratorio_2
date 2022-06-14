@@ -1,0 +1,16 @@
+C:\Users\Maxi\source\repos\2022_NetCore5\PropiedadesIndexadores\Propiedades\bin\Debug\net5.0\Propiedades.exe
+C:\Users\Maxi\source\repos\2022_NetCore5\PropiedadesIndexadores\Propiedades\bin\Debug\net5.0\Propiedades.deps.json
+C:\Users\Maxi\source\repos\2022_NetCore5\PropiedadesIndexadores\Propiedades\bin\Debug\net5.0\Propiedades.runtimeconfig.json
+C:\Users\Maxi\source\repos\2022_NetCore5\PropiedadesIndexadores\Propiedades\bin\Debug\net5.0\Propiedades.runtimeconfig.dev.json
+C:\Users\Maxi\source\repos\2022_NetCore5\PropiedadesIndexadores\Propiedades\bin\Debug\net5.0\Propiedades.dll
+C:\Users\Maxi\source\repos\2022_NetCore5\PropiedadesIndexadores\Propiedades\bin\Debug\net5.0\ref\Propiedades.dll
+C:\Users\Maxi\source\repos\2022_NetCore5\PropiedadesIndexadores\Propiedades\bin\Debug\net5.0\Propiedades.pdb
+C:\Users\Maxi\source\repos\2022_NetCore5\PropiedadesIndexadores\Propiedades\obj\Debug\net5.0\Propiedades.csproj.AssemblyReference.cache
+C:\Users\Maxi\source\repos\2022_NetCore5\PropiedadesIndexadores\Propiedades\obj\Debug\net5.0\Propiedades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxi\source\repos\2022_NetCore5\PropiedadesIndexadores\Propiedades\obj\Debug\net5.0\Propiedades.AssemblyInfoInputs.cache
+C:\Users\Maxi\source\repos\2022_NetCore5\PropiedadesIndexadores\Propiedades\obj\Debug\net5.0\Propiedades.AssemblyInfo.cs
+C:\Users\Maxi\source\repos\2022_NetCore5\PropiedadesIndexadores\Propiedades\obj\Debug\net5.0\Propiedades.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\2022_NetCore5\PropiedadesIndexadores\Propiedades\obj\Debug\net5.0\Propiedades.dll
+C:\Users\Maxi\source\repos\2022_NetCore5\PropiedadesIndexadores\Propiedades\obj\Debug\net5.0\ref\Propiedades.dll
+C:\Users\Maxi\source\repos\2022_NetCore5\PropiedadesIndexadores\Propiedades\obj\Debug\net5.0\Propiedades.pdb
+C:\Users\Maxi\source\repos\2022_NetCore5\PropiedadesIndexadores\Propiedades\obj\Debug\net5.0\Propiedades.genruntimeconfig.cache

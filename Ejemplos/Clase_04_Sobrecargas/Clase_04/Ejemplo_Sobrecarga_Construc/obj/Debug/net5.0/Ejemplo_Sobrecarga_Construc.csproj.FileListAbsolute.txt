@@ -1,0 +1,16 @@
+C:\Users\feder\source\repos\Clase_04\Ejemplo_Sobrecarga_Construc\bin\Debug\net5.0\Ejemplo_Sobrecarga_Construc.exe
+C:\Users\feder\source\repos\Clase_04\Ejemplo_Sobrecarga_Construc\bin\Debug\net5.0\Ejemplo_Sobrecarga_Construc.deps.json
+C:\Users\feder\source\repos\Clase_04\Ejemplo_Sobrecarga_Construc\bin\Debug\net5.0\Ejemplo_Sobrecarga_Construc.runtimeconfig.json
+C:\Users\feder\source\repos\Clase_04\Ejemplo_Sobrecarga_Construc\bin\Debug\net5.0\Ejemplo_Sobrecarga_Construc.runtimeconfig.dev.json
+C:\Users\feder\source\repos\Clase_04\Ejemplo_Sobrecarga_Construc\bin\Debug\net5.0\Ejemplo_Sobrecarga_Construc.dll
+C:\Users\feder\source\repos\Clase_04\Ejemplo_Sobrecarga_Construc\bin\Debug\net5.0\ref\Ejemplo_Sobrecarga_Construc.dll
+C:\Users\feder\source\repos\Clase_04\Ejemplo_Sobrecarga_Construc\bin\Debug\net5.0\Ejemplo_Sobrecarga_Construc.pdb
+C:\Users\feder\source\repos\Clase_04\Ejemplo_Sobrecarga_Construc\obj\Debug\net5.0\Ejemplo_Sobrecarga_Construc.csproj.AssemblyReference.cache
+C:\Users\feder\source\repos\Clase_04\Ejemplo_Sobrecarga_Construc\obj\Debug\net5.0\Ejemplo_Sobrecarga_Construc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feder\source\repos\Clase_04\Ejemplo_Sobrecarga_Construc\obj\Debug\net5.0\Ejemplo_Sobrecarga_Construc.AssemblyInfoInputs.cache
+C:\Users\feder\source\repos\Clase_04\Ejemplo_Sobrecarga_Construc\obj\Debug\net5.0\Ejemplo_Sobrecarga_Construc.AssemblyInfo.cs
+C:\Users\feder\source\repos\Clase_04\Ejemplo_Sobrecarga_Construc\obj\Debug\net5.0\Ejemplo_Sobrecarga_Construc.csproj.CoreCompileInputs.cache
+C:\Users\feder\source\repos\Clase_04\Ejemplo_Sobrecarga_Construc\obj\Debug\net5.0\Ejemplo_Sobrecarga_Construc.dll
+C:\Users\feder\source\repos\Clase_04\Ejemplo_Sobrecarga_Construc\obj\Debug\net5.0\ref\Ejemplo_Sobrecarga_Construc.dll
+C:\Users\feder\source\repos\Clase_04\Ejemplo_Sobrecarga_Construc\obj\Debug\net5.0\Ejemplo_Sobrecarga_Construc.pdb
+C:\Users\feder\source\repos\Clase_04\Ejemplo_Sobrecarga_Construc\obj\Debug\net5.0\Ejemplo_Sobrecarga_Construc.genruntimeconfig.cache
