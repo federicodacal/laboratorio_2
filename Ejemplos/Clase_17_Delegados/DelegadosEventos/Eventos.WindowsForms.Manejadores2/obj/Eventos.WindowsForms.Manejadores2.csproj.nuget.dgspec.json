@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Maxi\\source\\repos\\2022_NetCore5\\DelegadosEventos\\Eventos.WindowsForms.Manejadores2\\Eventos.WindowsForms.Manejadores2.csproj": {}
+    "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\laboratorio_2\\Ejemplos\\Clase_17_Delegados\\DelegadosEventos\\Eventos.WindowsForms.Manejadores2\\Eventos.WindowsForms.Manejadores2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Maxi\\source\\repos\\2022_NetCore5\\DelegadosEventos\\Eventos.WindowsForms.Manejadores2\\Eventos.WindowsForms.Manejadores2.csproj": {
+    "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\laboratorio_2\\Ejemplos\\Clase_17_Delegados\\DelegadosEventos\\Eventos.WindowsForms.Manejadores2\\Eventos.WindowsForms.Manejadores2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Maxi\\source\\repos\\2022_NetCore5\\DelegadosEventos\\Eventos.WindowsForms.Manejadores2\\Eventos.WindowsForms.Manejadores2.csproj",
+        "projectUniqueName": "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\laboratorio_2\\Ejemplos\\Clase_17_Delegados\\DelegadosEventos\\Eventos.WindowsForms.Manejadores2\\Eventos.WindowsForms.Manejadores2.csproj",
         "projectName": "Eventos.WindowsForms.Manejadores2",
-        "projectPath": "C:\\Users\\Maxi\\source\\repos\\2022_NetCore5\\DelegadosEventos\\Eventos.WindowsForms.Manejadores2\\Eventos.WindowsForms.Manejadores2.csproj",
-        "packagesPath": "C:\\Users\\Maxi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Maxi\\source\\repos\\2022_NetCore5\\DelegadosEventos\\Eventos.WindowsForms.Manejadores2\\obj\\",
+        "projectPath": "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\laboratorio_2\\Ejemplos\\Clase_17_Delegados\\DelegadosEventos\\Eventos.WindowsForms.Manejadores2\\Eventos.WindowsForms.Manejadores2.csproj",
+        "packagesPath": "C:\\Users\\feder\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\laboratorio_2\\Ejemplos\\Clase_17_Delegados\\DelegadosEventos\\Eventos.WindowsForms.Manejadores2\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Maxi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\feder\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +60,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
         }
       }
     }

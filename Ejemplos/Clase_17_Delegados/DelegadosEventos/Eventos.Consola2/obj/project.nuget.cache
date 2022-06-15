@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R/cweav97z2xO7wIr2XRVAy/CK2ZCkEO+PHS6A7YBzM1PHzkpNJnPdSIcvyFX9ypSq7BteTpUqqEiR/Q0/xI8Q==",
+  "dgSpecHash": "nqI5xmhoA2cvX410teiM6XOgecBV76aLt0+LBbpDWRQ83KyJKg7IlopzKNzhxrxTcTtAHMmFbHD7aGi6XtqMWw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Maxi\\source\\repos\\2022_NetCore5\\DelegadosEventos\\Eventos.Consola2\\Eventos.Consola2.csproj",
+  "projectFilePath": "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\laboratorio_2\\Ejemplos\\Clase_17_Delegados\\DelegadosEventos\\Eventos.Consola2\\Eventos.Consola2.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

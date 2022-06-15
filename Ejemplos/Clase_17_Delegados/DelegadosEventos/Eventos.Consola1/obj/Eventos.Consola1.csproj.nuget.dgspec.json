@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Maxi\\source\\repos\\2022_NetCore5\\DelegadosEventos\\Eventos.Consola1\\Eventos.Consola1.csproj": {}
+    "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\laboratorio_2\\Ejemplos\\Clase_17_Delegados\\DelegadosEventos\\Eventos.Consola1\\Eventos.Consola1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Maxi\\source\\repos\\2022_NetCore5\\DelegadosEventos\\Eventos.Consola1\\Eventos.Consola1.csproj": {
+    "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\laboratorio_2\\Ejemplos\\Clase_17_Delegados\\DelegadosEventos\\Eventos.Consola1\\Eventos.Consola1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Maxi\\source\\repos\\2022_NetCore5\\DelegadosEventos\\Eventos.Consola1\\Eventos.Consola1.csproj",
+        "projectUniqueName": "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\laboratorio_2\\Ejemplos\\Clase_17_Delegados\\DelegadosEventos\\Eventos.Consola1\\Eventos.Consola1.csproj",
         "projectName": "Eventos.Consola1",
-        "projectPath": "C:\\Users\\Maxi\\source\\repos\\2022_NetCore5\\DelegadosEventos\\Eventos.Consola1\\Eventos.Consola1.csproj",
-        "packagesPath": "C:\\Users\\Maxi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Maxi\\source\\repos\\2022_NetCore5\\DelegadosEventos\\Eventos.Consola1\\obj\\",
+        "projectPath": "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\laboratorio_2\\Ejemplos\\Clase_17_Delegados\\DelegadosEventos\\Eventos.Consola1\\Eventos.Consola1.csproj",
+        "packagesPath": "C:\\Users\\feder\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\laboratorio_2\\Ejemplos\\Clase_17_Delegados\\DelegadosEventos\\Eventos.Consola1\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Maxi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\feder\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +31,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Maxi\\source\\repos\\2022_NetCore5\\DelegadosEventos\\Eventos.Entidades\\Eventos.Entidades.csproj": {
-                "projectPath": "C:\\Users\\Maxi\\source\\repos\\2022_NetCore5\\DelegadosEventos\\Eventos.Entidades\\Eventos.Entidades.csproj"
+              "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\laboratorio_2\\Ejemplos\\Clase_17_Delegados\\DelegadosEventos\\Eventos.Entidades\\Eventos.Entidades.csproj": {
+                "projectPath": "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\laboratorio_2\\Ejemplos\\Clase_17_Delegados\\DelegadosEventos\\Eventos.Entidades\\Eventos.Entidades.csproj"
               }
             }
           }
@@ -58,21 +61,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Maxi\\source\\repos\\2022_NetCore5\\DelegadosEventos\\Eventos.Entidades\\Eventos.Entidades.csproj": {
+    "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\laboratorio_2\\Ejemplos\\Clase_17_Delegados\\DelegadosEventos\\Eventos.Entidades\\Eventos.Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Maxi\\source\\repos\\2022_NetCore5\\DelegadosEventos\\Eventos.Entidades\\Eventos.Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\laboratorio_2\\Ejemplos\\Clase_17_Delegados\\DelegadosEventos\\Eventos.Entidades\\Eventos.Entidades.csproj",
         "projectName": "Eventos.Entidades",
-        "projectPath": "C:\\Users\\Maxi\\source\\repos\\2022_NetCore5\\DelegadosEventos\\Eventos.Entidades\\Eventos.Entidades.csproj",
-        "packagesPath": "C:\\Users\\Maxi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Maxi\\source\\repos\\2022_NetCore5\\DelegadosEventos\\Eventos.Entidades\\obj\\",
+        "projectPath": "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\laboratorio_2\\Ejemplos\\Clase_17_Delegados\\DelegadosEventos\\Eventos.Entidades\\Eventos.Entidades.csproj",
+        "packagesPath": "C:\\Users\\feder\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\laboratorio_2\\Ejemplos\\Clase_17_Delegados\\DelegadosEventos\\Eventos.Entidades\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Maxi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\feder\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -112,7 +118,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
         }
       }
     }

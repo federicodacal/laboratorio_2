@@ -8,6 +8,13 @@ namespace Delegados.Consola
 {
     public class ClaseDelegado
     {
+        private string atributo;
+
+        public ClaseDelegado(string atributo)
+        {
+            this.atributo = atributo;
+        }
+
         #region Métodos con la misma firma del Delegado
 
         public void Dividir(int numero1, int numero2)
@@ -31,6 +38,11 @@ namespace Delegados.Consola
         }
 
         #endregion
+
+        public override string ToString()
+        {
+            return $"ClaseDelegado: {atributo}";
+        }
 
     }
 }

@@ -27,13 +27,16 @@ namespace Delegados.Predefinidos
 
         public static string ConRetornoConParametros(double doble, bool booleano)
         {
-            return $"Método de clase con parámetros ({doble.GetType().Name} - {booleano.GetType().Name}) y retorno string.";
+            return $"Método de clase con parámetros {doble.GetType().Name} - {booleano.GetType().Name}) y retorno string.";
         }
 
         public static bool RetornoBooleanoUnParametroEntero(int entero)
         {
-            Console.WriteLine("Método de clase con un parámetro {0}) y retorno bool.", entero);
-            return true;
+            Console.WriteLine("Método de clase con un parámetro {0} y retorno bool.", entero);
+            if (entero > 10)
+                return true;
+            else
+                return false;
         }
 
         public static bool RetornoBooleanoUnParametroObject(object obj)
@@ -97,7 +100,9 @@ namespace Delegados.Predefinidos
 
             Func<double, bool, string> delConRetornoConParametros = Program.ConRetornoConParametros;
 
-            delConRetornoConParametros.Invoke(33.9, true);
+            string respuesta = delConRetornoConParametros.Invoke(33.9, true);
+
+            Console.WriteLine(respuesta);
 
             #endregion
 
@@ -113,6 +118,8 @@ namespace Delegados.Predefinidos
             Predicate<int> delRetornoBooleanoUnParametroEntero = Program.RetornoBooleanoUnParametroEntero;
 
             bool retorno = delRetornoBooleanoUnParametroEntero(77);
+
+            Console.WriteLine(retorno);
 
             #endregion
 
@@ -139,13 +146,12 @@ namespace Delegados.Predefinidos
             #region Expresiones Lambda
             ///Expresión lambda (función flecha): Permiten crear funciones anónimas. 
             ///Una función anónima es una función que no tiene nombre ni declaración formal.
-            ///
 
             #region Funciones flecha y Delegados - Ejemplo 1
 
             //string Método(double a)
 
-            Func<double, string> a = doble => doble.ToString() ;
+            Func<double, string> a = doble => doble.ToString();
 
             string res = a(2.99);
 
@@ -159,9 +165,9 @@ namespace Delegados.Predefinidos
 
             Func<double, bool, string> b;
             
-            b = (doble, booleano) => $"Método de clase con parámetros ({doble.GetType().Name} - {booleano.GetType().Name}) y retorno string.";
+            b = (doble, booleano) => $"Método de clase con parámetros {doble.GetType().Name} - {booleano.GetType().Name} y retorno string.";
 
-            res = b(8.88, false);
+            res = b(8.87, false);
 
             Console.WriteLine(res);
 

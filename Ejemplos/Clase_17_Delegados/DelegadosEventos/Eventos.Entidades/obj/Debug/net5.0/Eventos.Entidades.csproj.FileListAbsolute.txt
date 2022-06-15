@@ -10,3 +10,15 @@ C:\Users\Maxi\source\repos\2022_NetCore5\DelegadosEventos\Eventos.Entidades\obj\
 C:\Users\Maxi\source\repos\2022_NetCore5\DelegadosEventos\Eventos.Entidades\obj\Debug\net5.0\Eventos.Entidades.dll
 C:\Users\Maxi\source\repos\2022_NetCore5\DelegadosEventos\Eventos.Entidades\obj\Debug\net5.0\ref\Eventos.Entidades.dll
 C:\Users\Maxi\source\repos\2022_NetCore5\DelegadosEventos\Eventos.Entidades\obj\Debug\net5.0\Eventos.Entidades.pdb
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Ejemplos\Clase_17_Delegados\DelegadosEventos\Eventos.Entidades\bin\Debug\net5.0\Eventos.Entidades.deps.json
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Ejemplos\Clase_17_Delegados\DelegadosEventos\Eventos.Entidades\bin\Debug\net5.0\Eventos.Entidades.dll
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Ejemplos\Clase_17_Delegados\DelegadosEventos\Eventos.Entidades\bin\Debug\net5.0\ref\Eventos.Entidades.dll
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Ejemplos\Clase_17_Delegados\DelegadosEventos\Eventos.Entidades\bin\Debug\net5.0\Eventos.Entidades.pdb
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Ejemplos\Clase_17_Delegados\DelegadosEventos\Eventos.Entidades\obj\Debug\net5.0\Eventos.Entidades.csproj.AssemblyReference.cache
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Ejemplos\Clase_17_Delegados\DelegadosEventos\Eventos.Entidades\obj\Debug\net5.0\Eventos.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Ejemplos\Clase_17_Delegados\DelegadosEventos\Eventos.Entidades\obj\Debug\net5.0\Eventos.Entidades.AssemblyInfoInputs.cache
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Ejemplos\Clase_17_Delegados\DelegadosEventos\Eventos.Entidades\obj\Debug\net5.0\Eventos.Entidades.AssemblyInfo.cs
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Ejemplos\Clase_17_Delegados\DelegadosEventos\Eventos.Entidades\obj\Debug\net5.0\Eventos.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Ejemplos\Clase_17_Delegados\DelegadosEventos\Eventos.Entidades\obj\Debug\net5.0\Eventos.Entidades.dll
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Ejemplos\Clase_17_Delegados\DelegadosEventos\Eventos.Entidades\obj\Debug\net5.0\ref\Eventos.Entidades.dll
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Ejemplos\Clase_17_Delegados\DelegadosEventos\Eventos.Entidades\obj\Debug\net5.0\Eventos.Entidades.pdb

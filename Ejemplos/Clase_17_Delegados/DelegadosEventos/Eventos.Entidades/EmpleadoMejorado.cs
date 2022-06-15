@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Eventos.Entidades
 {
-    //DECLARO UN DELEGADO
+    //DECLARO UN DELEGADO, sender es el objecto que emitió el evento
     public delegate void LimiteSueldoDelegadoMejorado(EmpleadoMejorado sender, EmpleadoEventArgs e);
 
     /// <summary>
@@ -49,6 +49,7 @@ namespace Eventos.Entidades
                     //DESPUES LANZO EL EVENTO Y LE PASO COMO PARAMETRO EL PROPIO
                     //OBJETO CON LA INFORMACION DEL EVENTO
                     this.LimiteSueldo(this, miEventArgs);
+                    //this.LimiteSueldo.Invoke(this, miEventArgs);
                 }
                 else
                 {

@@ -22,10 +22,10 @@ namespace Eventos.Consola1
             Console.ReadLine();
         }
 
+
         public static void SobreSueldo_Evento(Double importe, Empleado e)
         {
-            Console.WriteLine("Se ha sobrepasado, para el empleado {0}, el límite establecido de sueldo",
-                              e.Nombre);
+            Console.WriteLine("Se ha sobrepasado, para el empleado {0}, el límite establecido de sueldo", e.Nombre);
 
             Console.WriteLine("El importe de $ {0:#,###.00} no es válido!!!", importe);
 

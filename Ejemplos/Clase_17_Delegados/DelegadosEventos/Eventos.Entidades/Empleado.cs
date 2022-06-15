@@ -38,7 +38,8 @@ namespace Eventos.Entidades
                 if (value > 20000)
                 {
                     //LANZO EL EVENTO
-                    this.LimiteSueldo(value, this);
+                    //this.LimiteSueldo(value, this);
+                    this.LimiteSueldo.Invoke(value, this);
                 }
                 else
                 {

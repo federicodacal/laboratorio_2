@@ -7,11 +7,10 @@ namespace Delegados.Consola
     //OBJETOS DELEGADOS.
     public delegate void DelegadoDeMiFuncion(Int32 num1, Int32 num2);
 
-
     class Program
     {
 
-        #region Métodos con la misma firma del Delegado
+        //Métodos con la misma firma del Delegado
 
         public static void Sumar(int numero1, int numero2)
         {
@@ -22,8 +21,6 @@ namespace Delegados.Consola
         {
             Console.WriteLine("La Resta  es: {0}", numero1 - numero2);
         }
-
-        #endregion
 
         static void Main(string[] args)
         {
@@ -44,16 +41,18 @@ namespace Delegados.Consola
             //PARA AGREGAR METODOS A LA LISTA DE INVOCACION DE UN DELEGADO:
             //1.- CREO NUEVOS DELEGADOS (con la misma firma) Y LOS COMBINO...
             DelegadoDeMiFuncion miDelegado2 = new DelegadoDeMiFuncion(Program.Restar);
-            
+                     
             //UTILIZANDO EL METODO 'COMBINE'
             miDelegado = (DelegadoDeMiFuncion)DelegadoDeMiFuncion.Combine(miDelegado, miDelegado2);
 
-            //INCLUSIVE LOS PUEDO CONVINAR EN DISTINTOS AMBITOS
-            ClaseDelegado cd = new ClaseDelegado();
+            //INCLUSIVE LOS PUEDO COMBINAR EN DISTINTOS AMBITOS
+            ClaseDelegado cd = new ClaseDelegado("Atributo");
 
             DelegadoDeMiFuncion miDelegado3 = new DelegadoDeMiFuncion(cd.Dividir);
 
             //OBTENGO LA INSTANCIA QUE CONTIENE EL METODO DEL DELEGADO
+            //Si la clase no tiene sobrescritura de ToString() en la consola se muestra el ToString() "genérico":
+            //'Delegados.Consola.ClaseDelegado' 
             Console.WriteLine(miDelegado3.Target.ToString());
 
             Console.Clear();
@@ -89,7 +88,8 @@ namespace Delegados.Consola
             Console.Clear();
 
             Console.WriteLine("Se duplica la lista del delegado:");
-
+            // Duplico lista de invocación
+            // miDelegado = (DelegadoDeMiFuncion)DelegadoDeMiFuncion.Combine(miDelegado, miDelegado);
             miDelegado += miDelegado;
 
             foreach (DelegadoDeMiFuncion delegadoAux in miDelegado.GetInvocationList())
