@@ -34,9 +34,10 @@ namespace Bingo2E
             // 
             // btn_numero
             // 
-            this.btn_numero.Location = new System.Drawing.Point(209, 30);
+            this.btn_numero.Location = new System.Drawing.Point(13, 44);
+            this.btn_numero.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btn_numero.Name = "btn_numero";
-            this.btn_numero.Size = new System.Drawing.Size(291, 64);
+            this.btn_numero.Size = new System.Drawing.Size(416, 107);
             this.btn_numero.TabIndex = 0;
             this.btn_numero.Text = "Sacar proximo numero";
             this.btn_numero.UseVisualStyleBackColor = true;
@@ -44,10 +45,11 @@ namespace Bingo2E
             // 
             // FrmBolillero
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(688, 263);
+            this.ClientSize = new System.Drawing.Size(447, 191);
             this.Controls.Add(this.btn_numero);
+            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "FrmBolillero";
             this.Text = "Bolillero";
             this.Load += new System.EventHandler(this.FrmBolillero_Load);
