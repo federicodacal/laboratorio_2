@@ -1,0 +1,16 @@
+C:\Users\Facundo\Desktop\Hilos2021\Hilos2021\bin\Debug\net5.0\Hilos2021.exe
+C:\Users\Facundo\Desktop\Hilos2021\Hilos2021\bin\Debug\net5.0\Hilos2021.deps.json
+C:\Users\Facundo\Desktop\Hilos2021\Hilos2021\bin\Debug\net5.0\Hilos2021.runtimeconfig.json
+C:\Users\Facundo\Desktop\Hilos2021\Hilos2021\bin\Debug\net5.0\Hilos2021.runtimeconfig.dev.json
+C:\Users\Facundo\Desktop\Hilos2021\Hilos2021\bin\Debug\net5.0\Hilos2021.dll
+C:\Users\Facundo\Desktop\Hilos2021\Hilos2021\bin\Debug\net5.0\ref\Hilos2021.dll
+C:\Users\Facundo\Desktop\Hilos2021\Hilos2021\bin\Debug\net5.0\Hilos2021.pdb
+C:\Users\Facundo\Desktop\Hilos2021\Hilos2021\obj\Debug\net5.0\Hilos2021.csproj.AssemblyReference.cache
+C:\Users\Facundo\Desktop\Hilos2021\Hilos2021\obj\Debug\net5.0\Hilos2021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Facundo\Desktop\Hilos2021\Hilos2021\obj\Debug\net5.0\Hilos2021.AssemblyInfoInputs.cache
+C:\Users\Facundo\Desktop\Hilos2021\Hilos2021\obj\Debug\net5.0\Hilos2021.AssemblyInfo.cs
+C:\Users\Facundo\Desktop\Hilos2021\Hilos2021\obj\Debug\net5.0\Hilos2021.csproj.CoreCompileInputs.cache
+C:\Users\Facundo\Desktop\Hilos2021\Hilos2021\obj\Debug\net5.0\Hilos2021.dll
+C:\Users\Facundo\Desktop\Hilos2021\Hilos2021\obj\Debug\net5.0\ref\Hilos2021.dll
+C:\Users\Facundo\Desktop\Hilos2021\Hilos2021\obj\Debug\net5.0\Hilos2021.pdb
+C:\Users\Facundo\Desktop\Hilos2021\Hilos2021\obj\Debug\net5.0\Hilos2021.genruntimeconfig.cache

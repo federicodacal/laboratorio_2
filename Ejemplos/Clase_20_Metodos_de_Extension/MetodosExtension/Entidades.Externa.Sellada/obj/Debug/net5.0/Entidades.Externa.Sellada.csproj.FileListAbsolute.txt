@@ -1,0 +1,11 @@
+C:\Users\Maxi\source\repos\2022_NetCore5\MetodosExtension\Entidades.Externa.Sellada\bin\Debug\net5.0\Entidades.Externa.Sellada.deps.json
+C:\Users\Maxi\source\repos\2022_NetCore5\MetodosExtension\Entidades.Externa.Sellada\bin\Debug\net5.0\Entidades.Externa.Sellada.dll
+C:\Users\Maxi\source\repos\2022_NetCore5\MetodosExtension\Entidades.Externa.Sellada\bin\Debug\net5.0\ref\Entidades.Externa.Sellada.dll
+C:\Users\Maxi\source\repos\2022_NetCore5\MetodosExtension\Entidades.Externa.Sellada\bin\Debug\net5.0\Entidades.Externa.Sellada.pdb
+C:\Users\Maxi\source\repos\2022_NetCore5\MetodosExtension\Entidades.Externa.Sellada\obj\Debug\net5.0\Entidades.Externa.Sellada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxi\source\repos\2022_NetCore5\MetodosExtension\Entidades.Externa.Sellada\obj\Debug\net5.0\Entidades.Externa.Sellada.AssemblyInfoInputs.cache
+C:\Users\Maxi\source\repos\2022_NetCore5\MetodosExtension\Entidades.Externa.Sellada\obj\Debug\net5.0\Entidades.Externa.Sellada.AssemblyInfo.cs
+C:\Users\Maxi\source\repos\2022_NetCore5\MetodosExtension\Entidades.Externa.Sellada\obj\Debug\net5.0\Entidades.Externa.Sellada.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\2022_NetCore5\MetodosExtension\Entidades.Externa.Sellada\obj\Debug\net5.0\Entidades.Externa.Sellada.dll
+C:\Users\Maxi\source\repos\2022_NetCore5\MetodosExtension\Entidades.Externa.Sellada\obj\Debug\net5.0\ref\Entidades.Externa.Sellada.dll
+C:\Users\Maxi\source\repos\2022_NetCore5\MetodosExtension\Entidades.Externa.Sellada\obj\Debug\net5.0\Entidades.Externa.Sellada.pdb

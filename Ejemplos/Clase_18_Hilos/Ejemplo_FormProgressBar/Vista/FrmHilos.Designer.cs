@@ -151,6 +151,7 @@ namespace Vista
             this.btnReiniciar.TabIndex = 12;
             this.btnReiniciar.Text = "Reiniciar";
             this.btnReiniciar.UseVisualStyleBackColor = true;
+            this.btnReiniciar.Click += new System.EventHandler(this.btnReiniciar_Click);
             // 
             // btnInfo
             // 
@@ -160,6 +161,7 @@ namespace Vista
             this.btnInfo.TabIndex = 13;
             this.btnInfo.Text = "Ver Info";
             this.btnInfo.UseVisualStyleBackColor = true;
+            this.btnInfo.Click += new System.EventHandler(this.btnInfo_Click);
             // 
             // btnCancelar
             // 
@@ -169,6 +171,7 @@ namespace Vista
             this.btnCancelar.TabIndex = 14;
             this.btnCancelar.Text = "Cancelar";
             this.btnCancelar.UseVisualStyleBackColor = true;
+            this.btnCancelar.Click += new System.EventHandler(this.btnCancelar_Click);
             // 
             // FrmHilos
             // 
@@ -195,8 +198,8 @@ namespace Vista
             this.MinimizeBox = false;
             this.Name = "FrmHilos";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FrmHilos_FormClosing);
             this.Load += new System.EventHandler(this.FrmHilos_Load);
-            this.Paint += new System.Windows.Forms.PaintEventHandler(this.FrmHilos_Paint);
             this.ResumeLayout(false);
             this.PerformLayout();
 

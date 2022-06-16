@@ -1,0 +1,12 @@
+C:\Users\Maxi\source\repos\2022_NetCore5\MetodosExtension\Entidades.Externa\bin\Debug\net5.0\Entidades.Externa.deps.json
+C:\Users\Maxi\source\repos\2022_NetCore5\MetodosExtension\Entidades.Externa\bin\Debug\net5.0\Entidades.Externa.dll
+C:\Users\Maxi\source\repos\2022_NetCore5\MetodosExtension\Entidades.Externa\bin\Debug\net5.0\ref\Entidades.Externa.dll
+C:\Users\Maxi\source\repos\2022_NetCore5\MetodosExtension\Entidades.Externa\bin\Debug\net5.0\Entidades.Externa.pdb
+C:\Users\Maxi\source\repos\2022_NetCore5\MetodosExtension\Entidades.Externa\obj\Debug\net5.0\Entidades.Externa.csproj.AssemblyReference.cache
+C:\Users\Maxi\source\repos\2022_NetCore5\MetodosExtension\Entidades.Externa\obj\Debug\net5.0\Entidades.Externa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxi\source\repos\2022_NetCore5\MetodosExtension\Entidades.Externa\obj\Debug\net5.0\Entidades.Externa.AssemblyInfoInputs.cache
+C:\Users\Maxi\source\repos\2022_NetCore5\MetodosExtension\Entidades.Externa\obj\Debug\net5.0\Entidades.Externa.AssemblyInfo.cs
+C:\Users\Maxi\source\repos\2022_NetCore5\MetodosExtension\Entidades.Externa\obj\Debug\net5.0\Entidades.Externa.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\2022_NetCore5\MetodosExtension\Entidades.Externa\obj\Debug\net5.0\Entidades.Externa.dll
+C:\Users\Maxi\source\repos\2022_NetCore5\MetodosExtension\Entidades.Externa\obj\Debug\net5.0\ref\Entidades.Externa.dll
+C:\Users\Maxi\source\repos\2022_NetCore5\MetodosExtension\Entidades.Externa\obj\Debug\net5.0\Entidades.Externa.pdb

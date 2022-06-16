@@ -1,0 +1,93 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0-windows7.0": {
+      "Hilos2021/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Hilos2021.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Hilos2021.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hilos2021/1.0.0": {
+      "type": "project",
+      "path": "../Hilos2021/Hilos2021.csproj",
+      "msbuildProject": "../Hilos2021/Hilos2021.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0-windows7.0": [
+      "Hilos2021 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Facundo\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Facundo\\Desktop\\Hilos2021\\FormHilo\\FormHilo.csproj",
+      "projectName": "FormHilo",
+      "projectPath": "C:\\Users\\Facundo\\Desktop\\Hilos2021\\FormHilo\\FormHilo.csproj",
+      "packagesPath": "C:\\Users\\Facundo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Facundo\\Desktop\\Hilos2021\\FormHilo\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Facundo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "projectReferences": {
+            "C:\\Users\\Facundo\\Desktop\\Hilos2021\\Hilos2021\\Hilos2021.csproj": {
+              "projectPath": "C:\\Users\\Facundo\\Desktop\\Hilos2021\\Hilos2021\\Hilos2021.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0-windows7.0": {
+        "targetAlias": "net5.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

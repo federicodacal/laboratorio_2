@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Entidades.Externa.Sellada/1.0.0": {
+        "runtime": {
+          "Entidades.Externa.Sellada.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Entidades.Externa.Sellada/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

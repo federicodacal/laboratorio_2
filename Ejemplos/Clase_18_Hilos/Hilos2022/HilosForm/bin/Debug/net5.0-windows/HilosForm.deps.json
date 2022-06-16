@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "HilosForm/1.0.0": {
+        "dependencies": {
+          "Hilos2022": "1.0.0"
+        },
+        "runtime": {
+          "HilosForm.dll": {}
+        }
+      },
+      "Hilos2022/1.0.0": {
+        "runtime": {
+          "Hilos2022.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HilosForm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Hilos2022/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

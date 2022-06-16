@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Entidades\Entidades.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Entidades.Externa">
+      <HintPath>..\dllsExternas\Entidades.Externa.dll</HintPath>
+    </Reference>
+    <Reference Include="Entidades.Externa.Sellada">
+      <HintPath>..\dllsExternas\Entidades.Externa.Sellada.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
