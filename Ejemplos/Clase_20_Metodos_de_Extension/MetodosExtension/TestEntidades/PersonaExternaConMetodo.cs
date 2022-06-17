@@ -10,7 +10,7 @@ namespace TestEntidades
     class PersonaExternaConMetodo : Entidades.Externa.Persona
     {
         public PersonaExternaConMetodo(string nombre, string apellido, int edad)
-            : base(nombre, apellido, edad) { }
+            :base(nombre, apellido, edad) { }
 
         public string ObtenerInfo()
         {

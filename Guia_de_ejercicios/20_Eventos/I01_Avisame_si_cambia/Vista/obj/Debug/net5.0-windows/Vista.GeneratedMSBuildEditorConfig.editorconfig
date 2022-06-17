@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0-windows
+build_property.TargetPlatformMinVersion = 7.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = Vista
+build_property.ProjectDir = C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\20_Eventos\I01_Avisame_si_cambia\Vista\

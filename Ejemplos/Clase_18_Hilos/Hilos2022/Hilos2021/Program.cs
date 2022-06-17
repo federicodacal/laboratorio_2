@@ -11,13 +11,13 @@ namespace Hilos2022
         {
             Task t = new Task(MiMetodo);
 
-            Task.Run( ()=> MetodoConArgumentos("cadena") );
+            Task.Run(() => MetodoConArgumentos("cadena") );
 
-            Task t3 = Task.Run( ()=> {
-                Thread.Sleep(2000);
-                Console.WriteLine("Hilo anonimo - TASK:" + Task.CurrentId + " - Thread:" + Thread.CurrentThread.ManagedThreadId);
+            Task t3 = Task.Run(() => {
+                Thread.Sleep(3000);
+                Console.WriteLine("Hilo anonimo - TASK: " + Task.CurrentId + " - Thread: " + Thread.CurrentThread.ManagedThreadId);
 
-            } );
+            });
 
             Task t4 = Task.Run(MiMetodo);
 
@@ -30,19 +30,20 @@ namespace Hilos2022
 
             Thread.Sleep(3000);
 
-            Console.WriteLine("Hilo principal - Thread:" + Thread.CurrentThread.ManagedThreadId);
+            Console.WriteLine("Hilo principal - Thread: " + Thread.CurrentThread.ManagedThreadId);
 
             Console.ReadKey();
         }
         public static void MiMetodo()
         {
             Thread.Sleep(2000);
-            Console.WriteLine("Hilo secundario - TASK:" + Task.CurrentId+" - Thread:"+Thread.CurrentThread.ManagedThreadId);
+            Console.WriteLine("Hilo secundario - TASK: " + Task.CurrentId+" - Thread: "+Thread.CurrentThread.ManagedThreadId);
         }
 
         public static void MetodoConArgumentos(string cadena)
         {
             Thread.Sleep(5000);
+            Console.WriteLine("Hilo secundario param - TASK: " + Task.CurrentId + " - Thread: " + Thread.CurrentThread.ManagedThreadId);
             Console.WriteLine(cadena);
         }
 

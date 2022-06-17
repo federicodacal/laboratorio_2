@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Maxi\\source\\repos\\2022_NetCore5\\MetodosExtension\\Entidades.Externa\\Entidades.Externa.csproj": {}
+    "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\laboratorio_2\\Ejemplos\\Clase_20_Metodos_de_Extension\\MetodosExtension\\Entidades.Externa\\Entidades.Externa.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Maxi\\source\\repos\\2022_NetCore5\\MetodosExtension\\Entidades.Externa\\Entidades.Externa.csproj": {
+    "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\laboratorio_2\\Ejemplos\\Clase_20_Metodos_de_Extension\\MetodosExtension\\Entidades.Externa\\Entidades.Externa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Maxi\\source\\repos\\2022_NetCore5\\MetodosExtension\\Entidades.Externa\\Entidades.Externa.csproj",
+        "projectUniqueName": "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\laboratorio_2\\Ejemplos\\Clase_20_Metodos_de_Extension\\MetodosExtension\\Entidades.Externa\\Entidades.Externa.csproj",
         "projectName": "Entidades.Externa",
-        "projectPath": "C:\\Users\\Maxi\\source\\repos\\2022_NetCore5\\MetodosExtension\\Entidades.Externa\\Entidades.Externa.csproj",
-        "packagesPath": "C:\\Users\\Maxi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Maxi\\source\\repos\\2022_NetCore5\\MetodosExtension\\Entidades.Externa\\obj\\",
+        "projectPath": "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\laboratorio_2\\Ejemplos\\Clase_20_Metodos_de_Extension\\MetodosExtension\\Entidades.Externa\\Entidades.Externa.csproj",
+        "packagesPath": "C:\\Users\\feder\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\laboratorio_2\\Ejemplos\\Clase_20_Metodos_de_Extension\\MetodosExtension\\Entidades.Externa\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Maxi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\feder\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
         }
       }
     }

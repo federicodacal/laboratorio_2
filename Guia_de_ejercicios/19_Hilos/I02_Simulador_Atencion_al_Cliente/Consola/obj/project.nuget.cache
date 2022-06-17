@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qizNZFtLERvuSuTJpyWuTQs+zuSXsO7Trbm2u2Z96BpdzWrljRQZEGEDjEYWMO3dNl1BZZTDuzeBmqpBfMpkzg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\laboratorio_2\\Guia_de_ejercicios\\19_Hilos\\I02_Simulador_Atencion_al_Cliente\\Consola\\Consola.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\feder\\.nuget\\packages\\namegenerator\\2.0.4\\namegenerator.2.0.4.nupkg.sha512",
+    "C:\\Users\\feder\\.nuget\\packages\\system.text.json\\5.0.1\\system.text.json.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

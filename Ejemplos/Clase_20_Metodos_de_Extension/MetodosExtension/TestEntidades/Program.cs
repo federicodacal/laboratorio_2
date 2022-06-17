@@ -10,7 +10,7 @@ namespace TestEntidades
         {
             Persona p = new Persona("Juan", "Perez", 56);
 
-            //#1.- COMO MUESTRO SUS ATRIBUTOS???
+            //#1.- COMO MUESTRO SUS ATRIBUTOS??? (de tipo protected)
 
 
             #region Respuestas
@@ -46,7 +46,7 @@ namespace TestEntidades
 
             Entidades.Externa.Persona pe = new Entidades.Externa.Persona("Juan", "Perez", 56);
 
-            Console.WriteLine(pe.ToString());
+            Console.WriteLine(pe.ToString()); // Entidades.Externa.Persona
 
             Console.ReadLine();
 
@@ -109,9 +109,9 @@ namespace TestEntidades
                 Console.WriteLine("NO es nulo");
             }
 
-            if ( ! ps.EsNulo())
+            if (!ps.EsNulo())
             {
-                bool rta = ps.CompararNombreExtensionParam("roberto");
+                bool rta = ps.CompararNombreExtensionParam("Roberto");
 
                 Console.WriteLine(rta);
             }

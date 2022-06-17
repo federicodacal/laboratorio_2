@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Facundo\\Desktop\\Hilos2022\\HilosForm\\HilosForm.csproj": {}
+    "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\laboratorio_2\\Ejemplos\\Clase_18_Hilos\\Hilos2022\\HilosForm\\HilosForm.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Facundo\\Desktop\\Hilos2022\\Hilos2021\\Hilos2022.csproj": {
+    "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\laboratorio_2\\Ejemplos\\Clase_18_Hilos\\Hilos2022\\Hilos2021\\Hilos2022.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Facundo\\Desktop\\Hilos2022\\Hilos2021\\Hilos2022.csproj",
+        "projectUniqueName": "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\laboratorio_2\\Ejemplos\\Clase_18_Hilos\\Hilos2022\\Hilos2021\\Hilos2022.csproj",
         "projectName": "Hilos2022",
-        "projectPath": "C:\\Users\\Facundo\\Desktop\\Hilos2022\\Hilos2021\\Hilos2022.csproj",
-        "packagesPath": "C:\\Users\\Facundo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Facundo\\Desktop\\Hilos2022\\Hilos2021\\obj\\",
+        "projectPath": "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\laboratorio_2\\Ejemplos\\Clase_18_Hilos\\Hilos2022\\Hilos2021\\Hilos2022.csproj",
+        "packagesPath": "C:\\Users\\feder\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\laboratorio_2\\Ejemplos\\Clase_18_Hilos\\Hilos2022\\Hilos2021\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Facundo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\feder\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,21 +57,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Facundo\\Desktop\\Hilos2022\\HilosForm\\HilosForm.csproj": {
+    "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\laboratorio_2\\Ejemplos\\Clase_18_Hilos\\Hilos2022\\HilosForm\\HilosForm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Facundo\\Desktop\\Hilos2022\\HilosForm\\HilosForm.csproj",
+        "projectUniqueName": "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\laboratorio_2\\Ejemplos\\Clase_18_Hilos\\Hilos2022\\HilosForm\\HilosForm.csproj",
         "projectName": "HilosForm",
-        "projectPath": "C:\\Users\\Facundo\\Desktop\\Hilos2022\\HilosForm\\HilosForm.csproj",
-        "packagesPath": "C:\\Users\\Facundo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Facundo\\Desktop\\Hilos2022\\HilosForm\\obj\\",
+        "projectPath": "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\laboratorio_2\\Ejemplos\\Clase_18_Hilos\\Hilos2022\\HilosForm\\HilosForm.csproj",
+        "packagesPath": "C:\\Users\\feder\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\laboratorio_2\\Ejemplos\\Clase_18_Hilos\\Hilos2022\\HilosForm\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Facundo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\feder\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -82,8 +88,8 @@
           "net5.0-windows7.0": {
             "targetAlias": "net5.0-windows",
             "projectReferences": {
-              "C:\\Users\\Facundo\\Desktop\\Hilos2022\\Hilos2021\\Hilos2022.csproj": {
-                "projectPath": "C:\\Users\\Facundo\\Desktop\\Hilos2022\\Hilos2021\\Hilos2022.csproj"
+              "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\laboratorio_2\\Ejemplos\\Clase_18_Hilos\\Hilos2022\\Hilos2021\\Hilos2022.csproj": {
+                "projectPath": "C:\\Users\\feder\\Desktop\\UTN_Prog_Lab_2\\laboratorio_2\\Ejemplos\\Clase_18_Hilos\\Hilos2022\\Hilos2021\\Hilos2022.csproj"
               }
             }
           }
@@ -115,7 +121,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
         }
       }
     }

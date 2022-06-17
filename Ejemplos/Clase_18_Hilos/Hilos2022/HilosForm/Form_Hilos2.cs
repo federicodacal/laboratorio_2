@@ -12,9 +12,11 @@ using Hilos2022;
 
 namespace HilosForm
 {
+
+    public delegate void MiDelegado(string path);
+
     public partial class Form_Hilos2 : Form
     {
-        delegate void MiDelegado(string path);
 
         public Form_Hilos2()
         {
@@ -23,7 +25,7 @@ namespace HilosForm
 
         private void btnCambiarTexto_Click(object sender, EventArgs e)
         {
-            Task t = Task.Run(() => { CambiarTexto(); });
+            Task t = Task.Run(() => { this.CambiarTexto(); });
         }
 
         private void CambiarTexto()
@@ -31,12 +33,12 @@ namespace HilosForm
             //ERROR
             //this.lblTexto.Text = "CAMBIANDO TEXTO!!";
             
-            if (this.lblTexto.InvokeRequired)
+            if (this.lblTexto.InvokeRequired) // this.InvokeRequired
             {
-                Action d = new Action(this.CambiarTexto);
+                //Action d = new Action(this.CambiarTexto);
 
                 //this.lblTexto.Invoke(d);
-                
+                              
                 this.lblTexto.BeginInvoke((MethodInvoker)delegate ()
                 {
                     this.lblTexto.Text = "cambio en begin invoke";
@@ -55,11 +57,11 @@ namespace HilosForm
 
         private void BtnCambiarFoto(object sender, EventArgs e)
         {
-            string path = Environment.GetFolderPath(Environment.SpecialFolder.MyPictures);
+            string path = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
 
-            path += "\\afremov.jpg";
+            path += @"\afremov.jpg";
 
-            Task t = Task.Run(() => { CambiarFoto(path); });
+            Task t = Task.Run(() => { this.CambiarFoto(path); });
         }
 
         private void CambiarFoto(string path)
@@ -67,12 +69,13 @@ namespace HilosForm
 
             if (this.pictureBox.InvokeRequired)
             {
-                MiDelegado d = new MiDelegado(CambiarFoto);
+                MiDelegado d = new MiDelegado(this.CambiarFoto);
 
-                object[] obj = new object[] { path};
+                object[] obj = new object[] { path };
 
                 this.Invoke(d, obj);
-            }else
+            }
+            else
             {
                 this.pictureBox.BorderStyle = BorderStyle.Fixed3D;
                 this.pictureBox.ImageLocation = path;

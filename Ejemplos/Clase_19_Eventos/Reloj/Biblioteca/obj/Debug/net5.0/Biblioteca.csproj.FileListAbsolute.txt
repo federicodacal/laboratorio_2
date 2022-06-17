@@ -1,0 +1,11 @@
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Ejemplos\Clase_19_Eventos\Reloj\Biblioteca\bin\Debug\net5.0\Biblioteca.deps.json
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Ejemplos\Clase_19_Eventos\Reloj\Biblioteca\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Ejemplos\Clase_19_Eventos\Reloj\Biblioteca\bin\Debug\net5.0\ref\Biblioteca.dll
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Ejemplos\Clase_19_Eventos\Reloj\Biblioteca\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Ejemplos\Clase_19_Eventos\Reloj\Biblioteca\obj\Debug\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Ejemplos\Clase_19_Eventos\Reloj\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Ejemplos\Clase_19_Eventos\Reloj\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfo.cs
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Ejemplos\Clase_19_Eventos\Reloj\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Ejemplos\Clase_19_Eventos\Reloj\Biblioteca\obj\Debug\net5.0\Biblioteca.dll
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Ejemplos\Clase_19_Eventos\Reloj\Biblioteca\obj\Debug\net5.0\ref\Biblioteca.dll
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Ejemplos\Clase_19_Eventos\Reloj\Biblioteca\obj\Debug\net5.0\Biblioteca.pdb
