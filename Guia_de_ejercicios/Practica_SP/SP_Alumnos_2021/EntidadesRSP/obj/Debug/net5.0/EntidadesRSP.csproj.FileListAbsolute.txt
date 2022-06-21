@@ -1,0 +1,12 @@
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\SP_Alumnos_2021\EntidadesRSP\bin\Debug\net5.0\EntidadesRSP.deps.json
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\SP_Alumnos_2021\EntidadesRSP\bin\Debug\net5.0\EntidadesRSP.dll
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\SP_Alumnos_2021\EntidadesRSP\bin\Debug\net5.0\ref\EntidadesRSP.dll
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\SP_Alumnos_2021\EntidadesRSP\bin\Debug\net5.0\EntidadesRSP.pdb
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\SP_Alumnos_2021\EntidadesRSP\obj\Debug\net5.0\EntidadesRSP.csproj.AssemblyReference.cache
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\SP_Alumnos_2021\EntidadesRSP\obj\Debug\net5.0\EntidadesRSP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\SP_Alumnos_2021\EntidadesRSP\obj\Debug\net5.0\EntidadesRSP.AssemblyInfoInputs.cache
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\SP_Alumnos_2021\EntidadesRSP\obj\Debug\net5.0\EntidadesRSP.AssemblyInfo.cs
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\SP_Alumnos_2021\EntidadesRSP\obj\Debug\net5.0\EntidadesRSP.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\SP_Alumnos_2021\EntidadesRSP\obj\Debug\net5.0\EntidadesRSP.dll
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\SP_Alumnos_2021\EntidadesRSP\obj\Debug\net5.0\ref\EntidadesRSP.dll
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\SP_Alumnos_2021\EntidadesRSP\obj\Debug\net5.0\EntidadesRSP.pdb
