@@ -1,0 +1,30 @@
+C:\Users\lauta\source\repos\Final - 20211208\TallerFrankyUI\bin\Debug\Parcial.WindowsForm.exe.config
+C:\Users\lauta\source\repos\Final - 20211208\TallerFrankyUI\bin\Debug\Parcial.WindowsForm.exe
+C:\Users\lauta\source\repos\Final - 20211208\TallerFrankyUI\bin\Debug\Parcial.WindowsForm.pdb
+C:\Users\lauta\source\repos\Final - 20211208\TallerFrankyUI\bin\Debug\Entidades.dll
+C:\Users\lauta\source\repos\Final - 20211208\TallerFrankyUI\bin\Debug\Entidades.pdb
+C:\Users\lauta\source\repos\Final - 20211208\TallerFrankyUI\obj\Debug\TallerFrankyUI.csprojAssemblyReference.cache
+C:\Users\lauta\source\repos\Final - 20211208\TallerFrankyUI\obj\Debug\TallerFrankyUi.FrmPrincipal.resources
+C:\Users\lauta\source\repos\Final - 20211208\TallerFrankyUI\obj\Debug\TallerFrankyUi.FrmReparacion.resources
+C:\Users\lauta\source\repos\Final - 20211208\TallerFrankyUI\obj\Debug\TallerFrankyUi.FrmBarco.resources
+C:\Users\lauta\source\repos\Final - 20211208\TallerFrankyUI\obj\Debug\Parcial.WindowsForm.Properties.Resources.resources
+C:\Users\lauta\source\repos\Final - 20211208\TallerFrankyUI\obj\Debug\TallerFrankyUI.csproj.GenerateResource.cache
+C:\Users\lauta\source\repos\Final - 20211208\TallerFrankyUI\obj\Debug\TallerFrankyUI.csproj.CoreCompileInputs.cache
+C:\Users\lauta\source\repos\Final - 20211208\TallerFrankyUI\obj\Debug\TallerFrankyUI.csproj.CopyComplete
+C:\Users\lauta\source\repos\Final - 20211208\TallerFrankyUI\obj\Debug\Parcial.WindowsForm.exe
+C:\Users\lauta\source\repos\Final - 20211208\TallerFrankyUI\obj\Debug\Parcial.WindowsForm.pdb
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\Final _Taller_2021\TallerFrankyUI\obj\Debug\TallerFrankyUI.csproj.AssemblyReference.cache
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\Final _Taller_2021\TallerFrankyUI\obj\Debug\TallerFrankyUi.FrmPrincipal.resources
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\Final _Taller_2021\TallerFrankyUI\obj\Debug\TallerFrankyUi.FrmReparacion.resources
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\Final _Taller_2021\TallerFrankyUI\obj\Debug\TallerFrankyUi.FrmBarco.resources
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\Final _Taller_2021\TallerFrankyUI\obj\Debug\Parcial.WindowsForm.Properties.Resources.resources
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\Final _Taller_2021\TallerFrankyUI\obj\Debug\TallerFrankyUI.csproj.GenerateResource.cache
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\Final _Taller_2021\TallerFrankyUI\obj\Debug\TallerFrankyUI.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\Final _Taller_2021\TallerFrankyUI\bin\Debug\Parcial.WindowsForm.exe.config
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\Final _Taller_2021\TallerFrankyUI\bin\Debug\Parcial.WindowsForm.exe
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\Final _Taller_2021\TallerFrankyUI\bin\Debug\Parcial.WindowsForm.pdb
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\Final _Taller_2021\TallerFrankyUI\bin\Debug\Entidades.dll
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\Final _Taller_2021\TallerFrankyUI\bin\Debug\Entidades.pdb
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\Final _Taller_2021\TallerFrankyUI\obj\Debug\TallerFrankyUI.csproj.CopyComplete
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\Final _Taller_2021\TallerFrankyUI\obj\Debug\Parcial.WindowsForm.exe
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\Final _Taller_2021\TallerFrankyUI\obj\Debug\Parcial.WindowsForm.pdb

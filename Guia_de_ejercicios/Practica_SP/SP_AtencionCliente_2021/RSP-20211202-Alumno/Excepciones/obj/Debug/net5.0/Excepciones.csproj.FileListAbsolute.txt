@@ -1,0 +1,12 @@
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\SP_AtencionCliente_2021\RSP-20211202-Alumno\Excepciones\bin\Debug\net5.0\Excepciones.deps.json
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\SP_AtencionCliente_2021\RSP-20211202-Alumno\Excepciones\bin\Debug\net5.0\Excepciones.dll
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\SP_AtencionCliente_2021\RSP-20211202-Alumno\Excepciones\bin\Debug\net5.0\ref\Excepciones.dll
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\SP_AtencionCliente_2021\RSP-20211202-Alumno\Excepciones\bin\Debug\net5.0\Excepciones.pdb
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\SP_AtencionCliente_2021\RSP-20211202-Alumno\Excepciones\obj\Debug\net5.0\Excepciones.csproj.AssemblyReference.cache
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\SP_AtencionCliente_2021\RSP-20211202-Alumno\Excepciones\obj\Debug\net5.0\Excepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\SP_AtencionCliente_2021\RSP-20211202-Alumno\Excepciones\obj\Debug\net5.0\Excepciones.AssemblyInfoInputs.cache
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\SP_AtencionCliente_2021\RSP-20211202-Alumno\Excepciones\obj\Debug\net5.0\Excepciones.AssemblyInfo.cs
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\SP_AtencionCliente_2021\RSP-20211202-Alumno\Excepciones\obj\Debug\net5.0\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\SP_AtencionCliente_2021\RSP-20211202-Alumno\Excepciones\obj\Debug\net5.0\Excepciones.dll
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\SP_AtencionCliente_2021\RSP-20211202-Alumno\Excepciones\obj\Debug\net5.0\ref\Excepciones.dll
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\SP_AtencionCliente_2021\RSP-20211202-Alumno\Excepciones\obj\Debug\net5.0\Excepciones.pdb

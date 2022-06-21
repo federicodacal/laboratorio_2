@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBarco xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Barco xsi:type="Pirata">
+    <Costo>3341</Costo>
+    <EstadoReparado>false</EstadoReparado>
+    <Nombre>Carlos</Nombre>
+    <Operacion>Reparar_Mastil</Operacion>
+  </Barco>
+  <Barco xsi:type="Pirata">
+    <Costo>8216</Costo>
+    <EstadoReparado>false</EstadoReparado>
+    <Nombre>Juan Carlos</Nombre>
+    <Operacion>Reparar_Mastil</Operacion>
+  </Barco>
+  <Barco xsi:type="Marina">
+    <Costo>6770</Costo>
+    <EstadoReparado>false</EstadoReparado>
+    <Nombre>Jose Maria</Nombre>
+    <Operacion>Pintar</Operacion>
+  </Barco>
+  <Barco xsi:type="Pirata">
+    <Costo>7718</Costo>
+    <EstadoReparado>false</EstadoReparado>
+    <Nombre>Hola Mundo</Nombre>
+    <Operacion>Reparar_Mastil</Operacion>
+  </Barco>
+</ArrayOfBarco>

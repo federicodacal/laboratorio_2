@@ -1,0 +1,9 @@
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\Final _Taller_2021\Entidades\bin\Debug\Entidades.dll
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\Final _Taller_2021\Entidades\bin\Debug\Entidades.pdb
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\Final _Taller_2021\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\Final _Taller_2021\Entidades\obj\Debug\Entidades.dll
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\Final _Taller_2021\Entidades\obj\Debug\Entidades.pdb
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\Final _Taller_2021\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\Final _Taller_2021\Entidades\bin\Debug\System.Data.SqlClient.dll
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\Final _Taller_2021\Entidades\bin\Debug\System.Data.SqlClient.xml
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\Final _Taller_2021\Entidades\obj\Debug\Entidades.csproj.CopyComplete

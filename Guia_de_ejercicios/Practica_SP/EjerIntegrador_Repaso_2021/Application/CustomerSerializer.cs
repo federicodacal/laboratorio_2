@@ -1,0 +1,34 @@
+﻿using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using Application.Files.Xml;
+using Application.Models;
+
+namespace Application.DataAcces
+{
+    // <summary>
+    // Servicio para deserializar y serializar un cliente
+    // </summary>
+    public class CustomerSerializer : Xml<List<Customer>>
+    {
+        public bool Save(List<Customer> customers)
+        {
+            string path = AppDomain.CurrentDomain.BaseDirectory + "OtherCustomers.xml";
+            return base.Save(path, customers);
+        }
+
+        public List<Customer> Read(string path)
+        {
+            List<Customer> customers = new List<Customer>();
+            if (!base.Read(path, out customers))
+            {
+                throw new Exception("Ocurrió un problema al deserializar List<Customer>");
+            }
+            return customers;
+
+        }
+    }
+}
