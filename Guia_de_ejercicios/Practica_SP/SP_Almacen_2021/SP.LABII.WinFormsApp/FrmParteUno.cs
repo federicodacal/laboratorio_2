@@ -28,6 +28,13 @@ namespace SP.LABII.WinFormsApp
             ///Agregar 'dinámicamente' los manejadores de eventos a los 
             ///eventos 'Click' de los botones btnPunto1, btnPunto2, btnPunto3, btnPunto4 y btnPunto5
 
+            this.btnPunto1.Click += this.btnPunto1_Click;
+            this.btnPunto2.Click += this.btnPunto2_Click;
+            this.btnPunto3.Click += this.btnPunto3_Click;
+            this.btnPunto4.Click += this.btnPunto4_Click;
+            this.btnPunto5.Click += this.btnPunto5_Click;
+            //this.btnVerLog.Click += this.btnVerLog_Click;
+            //this.btnHilos.Click += this.btnHilos_Click;
 
         }
 
@@ -121,30 +128,52 @@ namespace SP.LABII.WinFormsApp
         private void btnPunto4_Click(object sender, EventArgs e)
         {
             ///Asociar 'dinámicamente' el manejador de eventos (Caja_EventoPrecio) aquí  
+            try
+            {
+                if(this.c_fosforos is null)
+                {
+                    this.c_fosforos = new Caja<Fosforo>(2);
+                }
 
+                this.c_fosforos.EventoPrecio += Caja_EventoPrecio;
 
-            this.c_fosforos += new Fosforo("Madera", "Fragata", 7, 900);
+                this.c_fosforos += new Fosforo("Madera", "Fragata", 7, 900);
+
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message, "Ocurrió un problema", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+
         }
 
         private void Caja_EventoPrecio(object sender, EventArgs e)
         {
-            bool todoOK = false;///Reemplazar por la llamada al método de clase ImprimirFactura
+            try
+            {
+                bool todoOK = Facturadora<Fosforo>.ImprimirFactura(this.c_fosforos);///Reemplazar por la llamada al método de clase ImprimirFactura
 
-            if (todoOK)
-            {
-                MessageBox.Show("Factura impresa correctamente!!!");
+                if (todoOK)
+                {
+                    MessageBox.Show("Factura impresa correctamente!!!");
+                }
+                else
+                {
+                    MessageBox.Show("No se pudo imprimir la factura!!!");
+                }
             }
-            else
+            catch (Exception ex)
             {
-                MessageBox.Show("No se pudo imprimir la factura!!!");
+                MessageBox.Show(ex.Message, "Ocurrió un problema", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
+
         }
 
         ///Crear las interfaces (en class library): 
         ///#.-ISerializa -> Xml() : bool
         ///              -> Path{ get; } : string
         ///#.-IDeserializa -> Xml(out zapato) : bool
-        ///Implementar (implícitamente) ISerializa zapato
+        ///Implementar (implícitamente) ISerializa en zapato
         ///Implementar (explícitamente) IDeserializa en zapato
         ///El archivo .xml guardarlo en el escritorio del cliente, con el nombre formado con su apellido.nombre.zapato.xml
         ///Ejemplo: Alumno Juan Pérez -> perez.juan.zapato.xml
@@ -152,44 +181,86 @@ namespace SP.LABII.WinFormsApp
         private void btnPunto5_Click(object sender, EventArgs e)
         {
             Zapato aux = null;
+            try
+            {
+                if (this.zapato.Xml())
+                {
+                    MessageBox.Show("Zapato serializado OK");
+                }
+                else
+                {
+                    MessageBox.Show("Zapato NO serializado");
+                }
 
-            if (this.zapato.Xml())
-            {
-                MessageBox.Show("Zapato serializado OK");
+                if (((IDeserializa)this.zapato).Xml(out aux))
+                {
+                    MessageBox.Show("Zapato deserializado OK");
+                    MessageBox.Show(aux.ToString());
+                }
+                else
+                {
+                    MessageBox.Show("Zapato NO deserializado");
+                }
             }
-            else
+            catch (Exception ex)
             {
-                MessageBox.Show("Zapato NO serializado");
+                MessageBox.Show(ex.Message, "Ocurrió un problema", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
-
-            if (((IDeserializa)this.zapato).Xml(out aux))
-            {
-                MessageBox.Show("Zapato deserializado OK");
-                MessageBox.Show(aux.ToString());
-            }
-            else
-            {
-                MessageBox.Show("Zapato NO deserializado");
-            }
+            
         }
 
         ///Configurar el OpenFileDialog, para poder seleccionar el log de facturas
         private void btnVerLog_Click(object sender, EventArgs e)
         {
             ///titulo -> 'Abrir archivo de facturas'
-            ///directorio por defecto -> Mis documentos
+            ///directorio por defecto -> Desktop
             ///tipo de archivo (filtro) -> .log
             ///extensión por defecto -> .log
             ///nombre de archivo (defecto) -> facturas
-
-
-            DialogResult rta = DialogResult.Cancel;///Reemplazar por la llamada al método correspondiente del OpenFileDialog
-
-            if (rta == DialogResult.OK)
+            try
             {
-                ///leer el archivo seleccionado por el cliente y mostrarlo en lstVisor
+                this.openFileDialog1.Title = "Abrir archivo";
+                this.openFileDialog1.InitialDirectory = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
+                this.openFileDialog1.Filter = "LOG files|*.log";
+                this.openFileDialog1.DefaultExt = "log";
+                this.openFileDialog1.CheckPathExists = true;
+                this.openFileDialog1.FileName = "facturas";
 
+                DialogResult rta = this.openFileDialog1.ShowDialog();///Reemplazar por la llamada al método correspondiente del OpenFileDialog
+
+                string file = this.openFileDialog1.FileName;
+
+                if (rta == DialogResult.OK)
+                {
+                    if (file is not null)
+                    {
+                        this.lstVisor.Items.Add(this.LeerArchivo(file));
+                    }
+                    ///leer el archivo seleccionado por el cliente y mostrarlo en lstVisor
+
+                }
             }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message, "Ocurrió un problema", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }            
+        }
+
+        private string LeerArchivo(string path)
+        {
+            string data = String.Empty;
+            try
+            {
+                using (StreamReader sr = new StreamReader(path))
+                {
+                    data = sr.ReadToEnd();
+                }
+            }
+            catch (Exception)
+            {
+                throw;
+            }
+            return data;
         }
 
         ///Iniciar una nueva tarea en segundo plano (hilo) que muestre en lstVisor el contenido
@@ -197,7 +268,36 @@ namespace SP.LABII.WinFormsApp
         ///agregando un retardo de 3 segundos.
         private void btnHilos_Click(object sender, EventArgs e)
         {
-            Task hilo = null;///generar la tarea en segundo plano
+            Task hilo = Task.Run(() => this.ListarProductos());///generar la tarea en segundo plano
+        }
+
+        private async void ListarProductos()
+        {
+            try
+            {
+                if (this.lstVisor.InvokeRequired)
+                {
+                    Action action = new Action(this.ListarProductos);
+
+                    this.lstVisor.Invoke(action);
+                }
+                else
+                {
+                    if(this.fosforo is not null && this.zapato is not null && this.remedio is not null)
+                    {
+                        this.lstVisor.Items.Add(this.fosforo.ToString());
+                        await Task.Delay(3000);
+                        this.lstVisor.Items.Add(this.remedio.ToString());
+                        await Task.Delay(3000);
+                        this.lstVisor.Items.Add(this.zapato.ToString());
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message, "Ocurrió un problema", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+
         }
     }
 }

@@ -1,0 +1,12 @@
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\SP_Almacen_2021\EntidadesSP\obj\Debug\net5.0\EntidadesSP.csproj.AssemblyReference.cache
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\SP_Almacen_2021\EntidadesSP\obj\Debug\net5.0\EntidadesSP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\SP_Almacen_2021\EntidadesSP\obj\Debug\net5.0\EntidadesSP.AssemblyInfoInputs.cache
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\SP_Almacen_2021\EntidadesSP\obj\Debug\net5.0\EntidadesSP.AssemblyInfo.cs
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\SP_Almacen_2021\EntidadesSP\obj\Debug\net5.0\EntidadesSP.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\SP_Almacen_2021\EntidadesSP\bin\Debug\net5.0\EntidadesSP.deps.json
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\SP_Almacen_2021\EntidadesSP\bin\Debug\net5.0\EntidadesSP.dll
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\SP_Almacen_2021\EntidadesSP\bin\Debug\net5.0\ref\EntidadesSP.dll
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\SP_Almacen_2021\EntidadesSP\bin\Debug\net5.0\EntidadesSP.pdb
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\SP_Almacen_2021\EntidadesSP\obj\Debug\net5.0\EntidadesSP.dll
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\SP_Almacen_2021\EntidadesSP\obj\Debug\net5.0\ref\EntidadesSP.dll
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\SP_Almacen_2021\EntidadesSP\obj\Debug\net5.0\EntidadesSP.pdb

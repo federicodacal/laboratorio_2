@@ -16,7 +16,7 @@ namespace SP.LABII.WinFormsApp
         {
             InitializeComponent();
 
-            this.Text = "Cambiar por su apellido y nombre";
+            this.Text = "Dacal Federico";
             MessageBox.Show(this.Text);
         }
 

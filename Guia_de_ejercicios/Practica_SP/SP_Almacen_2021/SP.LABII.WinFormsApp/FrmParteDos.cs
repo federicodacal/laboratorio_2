@@ -7,11 +7,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using EntidadesSP;
 
 namespace SP.LABII.WinFormsApp
 {
     ///Agregar manejo de excepciones en TODOS los lugares críticos!!!
-
 
     ///Crear, en EntidadesSP, la clase ADO.
     ///Dicha clase se deberá comunicar con la base de datos, tendrá:
@@ -45,7 +45,7 @@ namespace SP.LABII.WinFormsApp
         {
             InitializeComponent();
 
-            this.Text = "Cambiar por su apellido y nombre";
+            this.Text = "Dacal Federico";
             MessageBox.Show(this.Text);
         }
 
@@ -58,8 +58,16 @@ namespace SP.LABII.WinFormsApp
         {
             ///Utilizando la clase ADO, obtener y mostrar todos los productos
             ///
-            this.lista = EntidadesSP.ADO.ObtenerTodos();
-            this.listBox1.DataSource = this.lista;
+            try
+            {
+                this.lista = EntidadesSP.ADO.ObtenerTodos();
+                this.listBox1.DataSource = this.lista;
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message, "Ocurrió un problema", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+
         }
 
         private void btnAgregar_Click(object sender, EventArgs e)
@@ -72,31 +80,40 @@ namespace SP.LABII.WinFormsApp
             ///se muestren con un MessageBox: 
             ///la fecha (con hora, minutos y segundos) y todos los datos de los productos
             ///que coincidan con esa marca.
-
-            FrmProducto frm = new FrmProducto();
-            frm.StartPosition = FormStartPosition.CenterParent;
-
-            if (frm.ShowDialog() == DialogResult.OK)
+            ///
+            try
             {
-                EntidadesSP.ADO ado = new EntidadesSP.ADO();
+                FrmProducto frm = new FrmProducto();
+                frm.StartPosition = FormStartPosition.CenterParent;
 
-                ///Asociar 'dinámicamente' el manejador de eventos (Manejador_marcaExistente) aquí 
-
-
-                if (ado.Agregar(frm.MiProducto))
+                if (frm.ShowDialog() == DialogResult.OK)
                 {
-                    this.FrmAlmacen_Load(sender, e);
+                    EntidadesSP.ADO ado = new EntidadesSP.ADO();
 
-                    MessageBox.Show("Agregado!!");
-                }
-                else
-                {
-                    MessageBox.Show("No se agregó");
-                }
+                    ado.MarcaRepetida += Manejador_marcaExistente;
 
-                ///Desasociar 'dinámicamente' el manejador de eventos (Manejador_marcaExistente) aquí 
-                
+                    ///Asociar 'dinámicamente' el manejador de eventos (Manejador_marcaExistente) aquí 
+
+                    if (ado.Agregar(frm.MiProducto))
+                    {
+                        this.FrmAlmacen_Load(sender, e);
+
+                        MessageBox.Show("Agregado!!");
+                    }
+                    else
+                    {
+                        MessageBox.Show("No se agregó");
+                    }
+
+                    ado.MarcaRepetida -= Manejador_marcaExistente;
+                    ///Desasociar 'dinámicamente' el manejador de eventos (Manejador_marcaExistente) aquí 
+
+                }
             }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message, "Ocurrió un problema", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            } 
         }
 
         private void btnModificar_Click(object sender, EventArgs e)
@@ -104,33 +121,42 @@ namespace SP.LABII.WinFormsApp
             ///Modificar el producto seleccionado (el código no se debe modificar, adecuar FrmUsuario)
             ///Se deben mostrar todos los datos en el formulario (adaptarlo)
             ///reutilizar FrmUsuario
-            
-            int i = this.listBox1.SelectedIndex;
-
-            if (i < 0) { return; }
-
-            EntidadesSP.Producto prod = this.lista[i];
-
-            FrmProducto frm = new FrmProducto(prod);
-            frm.StartPosition = FormStartPosition.CenterParent;
-
-            if (frm.ShowDialog() == DialogResult.OK)
+            ///
+            try
             {
-                EntidadesSP.ADO ado = new EntidadesSP.ADO();
+                int i = this.listBox1.SelectedIndex;
 
-                if (ado.Modificar(frm.MiProducto))
+                if (i < 0) { return; }
+
+                EntidadesSP.Producto prod = this.lista[i];
+
+                FrmProducto frm = new FrmProducto(prod);
+                frm.StartPosition = FormStartPosition.CenterParent;
+
+                if (frm.ShowDialog() == DialogResult.OK)
                 {
-                    this.lista[i] = frm.MiProducto;
+                    EntidadesSP.ADO ado = new EntidadesSP.ADO();
 
-                    this.FrmAlmacen_Load(sender, e);
+                    if (ado.Modificar(frm.MiProducto))
+                    {
+                        this.lista[i] = frm.MiProducto;
 
-                    MessageBox.Show("Modificado!!");
-                }
-                else
-                {
-                    MessageBox.Show("No se modificó");
+                        this.FrmAlmacen_Load(sender, e);
+
+                        MessageBox.Show("Modificado!!");
+                    }
+                    else
+                    {
+                        MessageBox.Show("No se modificó");
+                    }
                 }
             }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message, "Ocurrió un problema", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+            
+            
         }
 
         private void btnEliminar_Click(object sender, EventArgs e)
@@ -138,43 +164,56 @@ namespace SP.LABII.WinFormsApp
             ///Eliminar el producto seleccionado (el código no se debe modificar, adecuar FrmUsuario)
             ///Se deben mostrar todos los datos en el formulario (adaptarlo)
             ///reutilizar FrmUsuario
-           
-            int i = this.listBox1.SelectedIndex;
-
-            if (i < 0) { return; }
-
-            EntidadesSP.Producto prod = this.lista[i];
-
-            FrmProducto frm = new FrmProducto(prod);
-            frm.StartPosition = FormStartPosition.CenterParent;
-
-            if (frm.ShowDialog() == DialogResult.OK)
+            try 
             {
-                EntidadesSP.ADO ado = new EntidadesSP.ADO();
-                if (ado.Eliminar(frm.MiProducto))
-                {
-                    this.lista.RemoveAt(i);
+                int i = this.listBox1.SelectedIndex;
 
-                    this.FrmAlmacen_Load(sender, e);
+                if (i < 0) { return; }
 
-                    MessageBox.Show("Eliminado!!");
-                }
-                else
+                EntidadesSP.Producto prod = this.lista[i];
+
+                FrmProducto frm = new FrmProducto(prod);
+                frm.StartPosition = FormStartPosition.CenterParent;
+
+                if (frm.ShowDialog() == DialogResult.OK)
                 {
-                    MessageBox.Show("No se eliminó");
+                    EntidadesSP.ADO ado = new EntidadesSP.ADO();
+                    if (ado.Eliminar(frm.MiProducto))
+                    {
+                        this.lista.RemoveAt(i);
+
+                        this.FrmAlmacen_Load(sender, e);
+
+                        MessageBox.Show("Eliminado!!");
+                    }
+                    else
+                    {
+                        MessageBox.Show("No se eliminó");
+                    }
                 }
             }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message, "Ocurrió un problema", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+            
         }
 
-        private void Manejador_marcaExistente(object sender, EventArgs e)
+        private void Manejador_marcaExistente(object sender, MarcaRepetidaEventArgs e)
         {
             /// Mostrar los datos del producto
-            ///
-            List<EntidadesSP.Producto> lista = null;///reemplazar por lo que corresponda
-
-            foreach (var item in lista)
+            try
             {
-                MessageBox.Show(item.ToString(), "Marcas repetidas " + DateTime.Now);
+                List<EntidadesSP.Producto> lista = EntidadesSP.ADO.ObtenerTodos(e.Marca);///reemplazar por lo que corresponda
+
+                foreach (var item in lista)
+                {
+                    MessageBox.Show(item.ToString(), "Marcas repetidas " + DateTime.Now);
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message, "Ocurrió un problema", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
 
         }

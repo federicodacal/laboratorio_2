@@ -44,72 +44,81 @@ namespace SP.LABII.WinFormsApp
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(12, 20);
+            this.label1.Location = new System.Drawing.Point(17, 33);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(49, 15);
+            this.label1.Size = new System.Drawing.Size(75, 25);
             this.label1.TabIndex = 0;
             this.label1.Text = "Código:";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(12, 64);
+            this.label2.Location = new System.Drawing.Point(17, 107);
+            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(43, 15);
+            this.label2.Size = new System.Drawing.Size(64, 25);
             this.label2.TabIndex = 1;
             this.label2.Text = "Marca:";
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(12, 108);
+            this.label3.Location = new System.Drawing.Point(17, 180);
+            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(33, 15);
+            this.label3.Size = new System.Drawing.Size(51, 25);
             this.label3.TabIndex = 2;
             this.label3.Text = "Tipo:";
             // 
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(12, 152);
+            this.label4.Location = new System.Drawing.Point(17, 253);
+            this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(43, 15);
+            this.label4.Size = new System.Drawing.Size(64, 25);
             this.label4.TabIndex = 3;
             this.label4.Text = "Precio:";
             // 
             // txtCodigo
             // 
-            this.txtCodigo.Location = new System.Drawing.Point(12, 38);
+            this.txtCodigo.Location = new System.Drawing.Point(17, 63);
+            this.txtCodigo.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.txtCodigo.Name = "txtCodigo";
-            this.txtCodigo.Size = new System.Drawing.Size(266, 23);
+            this.txtCodigo.Size = new System.Drawing.Size(378, 31);
             this.txtCodigo.TabIndex = 4;
             // 
             // txtMarca
             // 
-            this.txtMarca.Location = new System.Drawing.Point(12, 82);
+            this.txtMarca.Location = new System.Drawing.Point(17, 137);
+            this.txtMarca.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.txtMarca.Name = "txtMarca";
-            this.txtMarca.Size = new System.Drawing.Size(266, 23);
+            this.txtMarca.Size = new System.Drawing.Size(378, 31);
             this.txtMarca.TabIndex = 5;
             // 
             // txtTipo
             // 
-            this.txtTipo.Location = new System.Drawing.Point(12, 126);
+            this.txtTipo.Location = new System.Drawing.Point(17, 210);
+            this.txtTipo.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.txtTipo.Name = "txtTipo";
-            this.txtTipo.Size = new System.Drawing.Size(266, 23);
+            this.txtTipo.Size = new System.Drawing.Size(378, 31);
             this.txtTipo.TabIndex = 6;
             // 
             // txtPrecio
             // 
-            this.txtPrecio.Location = new System.Drawing.Point(12, 170);
+            this.txtPrecio.Location = new System.Drawing.Point(17, 283);
+            this.txtPrecio.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.txtPrecio.Name = "txtPrecio";
-            this.txtPrecio.Size = new System.Drawing.Size(266, 23);
+            this.txtPrecio.Size = new System.Drawing.Size(378, 31);
             this.txtPrecio.TabIndex = 7;
             // 
             // btnAceptar
             // 
-            this.btnAceptar.Location = new System.Drawing.Point(12, 210);
+            this.btnAceptar.Location = new System.Drawing.Point(17, 350);
+            this.btnAceptar.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnAceptar.Name = "btnAceptar";
-            this.btnAceptar.Size = new System.Drawing.Size(80, 39);
+            this.btnAceptar.Size = new System.Drawing.Size(114, 65);
             this.btnAceptar.TabIndex = 8;
             this.btnAceptar.Text = "Aceptar";
             this.btnAceptar.UseVisualStyleBackColor = true;
@@ -117,9 +126,10 @@ namespace SP.LABII.WinFormsApp
             // 
             // btnCancelar
             // 
-            this.btnCancelar.Location = new System.Drawing.Point(198, 210);
+            this.btnCancelar.Location = new System.Drawing.Point(283, 350);
+            this.btnCancelar.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnCancelar.Name = "btnCancelar";
-            this.btnCancelar.Size = new System.Drawing.Size(80, 39);
+            this.btnCancelar.Size = new System.Drawing.Size(114, 65);
             this.btnCancelar.TabIndex = 9;
             this.btnCancelar.Text = "Cancelar";
             this.btnCancelar.UseVisualStyleBackColor = true;
@@ -127,9 +137,9 @@ namespace SP.LABII.WinFormsApp
             // 
             // FrmProducto
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(290, 261);
+            this.ClientSize = new System.Drawing.Size(414, 435);
             this.Controls.Add(this.btnCancelar);
             this.Controls.Add(this.btnAceptar);
             this.Controls.Add(this.txtPrecio);
@@ -140,8 +150,10 @@ namespace SP.LABII.WinFormsApp
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
+            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "FrmProducto";
             this.Text = "Producto";
+            this.Load += new System.EventHandler(this.FrmProducto_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

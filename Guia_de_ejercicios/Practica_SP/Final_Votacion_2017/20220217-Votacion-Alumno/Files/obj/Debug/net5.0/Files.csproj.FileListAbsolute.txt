@@ -1,0 +1,12 @@
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\Final_Votacion_2017\20220217-Votacion-Alumno\Files\bin\Debug\net5.0\Files.deps.json
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\Final_Votacion_2017\20220217-Votacion-Alumno\Files\bin\Debug\net5.0\Files.dll
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\Final_Votacion_2017\20220217-Votacion-Alumno\Files\bin\Debug\net5.0\ref\Files.dll
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\Final_Votacion_2017\20220217-Votacion-Alumno\Files\bin\Debug\net5.0\Files.pdb
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\Final_Votacion_2017\20220217-Votacion-Alumno\Files\obj\Debug\net5.0\Files.csproj.AssemblyReference.cache
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\Final_Votacion_2017\20220217-Votacion-Alumno\Files\obj\Debug\net5.0\Files.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\Final_Votacion_2017\20220217-Votacion-Alumno\Files\obj\Debug\net5.0\Files.AssemblyInfoInputs.cache
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\Final_Votacion_2017\20220217-Votacion-Alumno\Files\obj\Debug\net5.0\Files.AssemblyInfo.cs
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\Final_Votacion_2017\20220217-Votacion-Alumno\Files\obj\Debug\net5.0\Files.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\Final_Votacion_2017\20220217-Votacion-Alumno\Files\obj\Debug\net5.0\Files.dll
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\Final_Votacion_2017\20220217-Votacion-Alumno\Files\obj\Debug\net5.0\ref\Files.dll
+C:\Users\feder\Desktop\UTN_Prog_Lab_2\laboratorio_2\Guia_de_ejercicios\Practica_SP\Final_Votacion_2017\20220217-Votacion-Alumno\Files\obj\Debug\net5.0\Files.pdb

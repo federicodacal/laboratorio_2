@@ -6,4 +6,8 @@
     <UseWindowsForms>true</UseWindowsForms>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\EntidadesSP\EntidadesSP.csproj" />
+  </ItemGroup>
+
 </Project>

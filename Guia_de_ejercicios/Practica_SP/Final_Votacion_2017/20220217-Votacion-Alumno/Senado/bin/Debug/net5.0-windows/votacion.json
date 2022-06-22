@@ -1,0 +1,1175 @@
+{
+  "Bancas": [
+    {
+      "ColorDeBanca": {
+        "R": 0,
+        "G": 0,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "Black"
+      },
+      "Presentismo": false,
+      "Voto": 0,
+      "Banca": "1"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 0,
+        "G": 200,
+        "B": 255,
+        "A": 255,
+        "IsKnownColor": false,
+        "IsEmpty": false,
+        "IsNamedColor": false,
+        "IsSystemColor": false,
+        "Name": "ff00c8ff"
+      },
+      "Presentismo": true,
+      "Voto": 1,
+      "Banca": "2"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 139,
+        "G": 0,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "DarkRed"
+      },
+      "Presentismo": true,
+      "Voto": 3,
+      "Banca": "3"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 0,
+        "G": 0,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "Black"
+      },
+      "Presentismo": false,
+      "Voto": 0,
+      "Banca": "4"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 0,
+        "G": 0,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "Black"
+      },
+      "Presentismo": false,
+      "Voto": 0,
+      "Banca": "5"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 0,
+        "G": 0,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "Black"
+      },
+      "Presentismo": false,
+      "Voto": 0,
+      "Banca": "6"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 0,
+        "G": 100,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "DarkGreen"
+      },
+      "Presentismo": true,
+      "Voto": 2,
+      "Banca": "7"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 0,
+        "G": 0,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "Black"
+      },
+      "Presentismo": false,
+      "Voto": 0,
+      "Banca": "8"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 0,
+        "G": 200,
+        "B": 255,
+        "A": 255,
+        "IsKnownColor": false,
+        "IsEmpty": false,
+        "IsNamedColor": false,
+        "IsSystemColor": false,
+        "Name": "ff00c8ff"
+      },
+      "Presentismo": true,
+      "Voto": 1,
+      "Banca": "9"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 139,
+        "G": 0,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "DarkRed"
+      },
+      "Presentismo": true,
+      "Voto": 3,
+      "Banca": "10"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 0,
+        "G": 0,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "Black"
+      },
+      "Presentismo": false,
+      "Voto": 0,
+      "Banca": "11"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 0,
+        "G": 0,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "Black"
+      },
+      "Presentismo": false,
+      "Voto": 0,
+      "Banca": "12"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 0,
+        "G": 200,
+        "B": 255,
+        "A": 255,
+        "IsKnownColor": false,
+        "IsEmpty": false,
+        "IsNamedColor": false,
+        "IsSystemColor": false,
+        "Name": "ff00c8ff"
+      },
+      "Presentismo": true,
+      "Voto": 1,
+      "Banca": "13"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 139,
+        "G": 0,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "DarkRed"
+      },
+      "Presentismo": true,
+      "Voto": 3,
+      "Banca": "14"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 0,
+        "G": 0,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "Black"
+      },
+      "Presentismo": false,
+      "Voto": 0,
+      "Banca": "15"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 0,
+        "G": 0,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "Black"
+      },
+      "Presentismo": false,
+      "Voto": 0,
+      "Banca": "16"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 0,
+        "G": 0,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "Black"
+      },
+      "Presentismo": false,
+      "Voto": 0,
+      "Banca": "17"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 0,
+        "G": 0,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "Black"
+      },
+      "Presentismo": false,
+      "Voto": 0,
+      "Banca": "18"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 0,
+        "G": 0,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "Black"
+      },
+      "Presentismo": false,
+      "Voto": 0,
+      "Banca": "19"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 0,
+        "G": 0,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "Black"
+      },
+      "Presentismo": false,
+      "Voto": 0,
+      "Banca": "20"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 0,
+        "G": 100,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "DarkGreen"
+      },
+      "Presentismo": true,
+      "Voto": 2,
+      "Banca": "21"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 139,
+        "G": 0,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "DarkRed"
+      },
+      "Presentismo": true,
+      "Voto": 3,
+      "Banca": "22"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 0,
+        "G": 100,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "DarkGreen"
+      },
+      "Presentismo": true,
+      "Voto": 2,
+      "Banca": "23"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 0,
+        "G": 100,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "DarkGreen"
+      },
+      "Presentismo": true,
+      "Voto": 2,
+      "Banca": "24"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 139,
+        "G": 0,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "DarkRed"
+      },
+      "Presentismo": true,
+      "Voto": 3,
+      "Banca": "25"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 0,
+        "G": 0,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "Black"
+      },
+      "Presentismo": false,
+      "Voto": 0,
+      "Banca": "26"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 0,
+        "G": 0,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "Black"
+      },
+      "Presentismo": false,
+      "Voto": 0,
+      "Banca": "27"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 0,
+        "G": 200,
+        "B": 255,
+        "A": 255,
+        "IsKnownColor": false,
+        "IsEmpty": false,
+        "IsNamedColor": false,
+        "IsSystemColor": false,
+        "Name": "ff00c8ff"
+      },
+      "Presentismo": true,
+      "Voto": 1,
+      "Banca": "28"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 0,
+        "G": 0,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "Black"
+      },
+      "Presentismo": false,
+      "Voto": 0,
+      "Banca": "29"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 139,
+        "G": 0,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "DarkRed"
+      },
+      "Presentismo": true,
+      "Voto": 3,
+      "Banca": "30"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 0,
+        "G": 0,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "Black"
+      },
+      "Presentismo": false,
+      "Voto": 0,
+      "Banca": "31"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 0,
+        "G": 0,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "Black"
+      },
+      "Presentismo": false,
+      "Voto": 0,
+      "Banca": "32"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 0,
+        "G": 0,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "Black"
+      },
+      "Presentismo": false,
+      "Voto": 0,
+      "Banca": "33"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 0,
+        "G": 100,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "DarkGreen"
+      },
+      "Presentismo": true,
+      "Voto": 2,
+      "Banca": "34"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 0,
+        "G": 0,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "Black"
+      },
+      "Presentismo": false,
+      "Voto": 0,
+      "Banca": "35"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 0,
+        "G": 0,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "Black"
+      },
+      "Presentismo": false,
+      "Voto": 0,
+      "Banca": "36"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 0,
+        "G": 0,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "Black"
+      },
+      "Presentismo": false,
+      "Voto": 0,
+      "Banca": "37"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 139,
+        "G": 0,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "DarkRed"
+      },
+      "Presentismo": true,
+      "Voto": 3,
+      "Banca": "38"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 0,
+        "G": 100,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "DarkGreen"
+      },
+      "Presentismo": true,
+      "Voto": 2,
+      "Banca": "39"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 139,
+        "G": 0,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "DarkRed"
+      },
+      "Presentismo": true,
+      "Voto": 3,
+      "Banca": "40"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 0,
+        "G": 0,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "Black"
+      },
+      "Presentismo": false,
+      "Voto": 0,
+      "Banca": "41"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 139,
+        "G": 0,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "DarkRed"
+      },
+      "Presentismo": true,
+      "Voto": 3,
+      "Banca": "42"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 0,
+        "G": 0,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "Black"
+      },
+      "Presentismo": false,
+      "Voto": 0,
+      "Banca": "43"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 0,
+        "G": 200,
+        "B": 255,
+        "A": 255,
+        "IsKnownColor": false,
+        "IsEmpty": false,
+        "IsNamedColor": false,
+        "IsSystemColor": false,
+        "Name": "ff00c8ff"
+      },
+      "Presentismo": true,
+      "Voto": 1,
+      "Banca": "44"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 0,
+        "G": 0,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "Black"
+      },
+      "Presentismo": false,
+      "Voto": 0,
+      "Banca": "45"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 0,
+        "G": 0,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "Black"
+      },
+      "Presentismo": false,
+      "Voto": 0,
+      "Banca": "46"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 139,
+        "G": 0,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "DarkRed"
+      },
+      "Presentismo": true,
+      "Voto": 3,
+      "Banca": "47"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 139,
+        "G": 0,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "DarkRed"
+      },
+      "Presentismo": true,
+      "Voto": 3,
+      "Banca": "48"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 139,
+        "G": 0,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "DarkRed"
+      },
+      "Presentismo": true,
+      "Voto": 3,
+      "Banca": "49"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 0,
+        "G": 100,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "DarkGreen"
+      },
+      "Presentismo": true,
+      "Voto": 2,
+      "Banca": "50"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 0,
+        "G": 0,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "Black"
+      },
+      "Presentismo": false,
+      "Voto": 0,
+      "Banca": "51"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 0,
+        "G": 0,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "Black"
+      },
+      "Presentismo": false,
+      "Voto": 0,
+      "Banca": "52"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 0,
+        "G": 0,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "Black"
+      },
+      "Presentismo": false,
+      "Voto": 0,
+      "Banca": "53"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 139,
+        "G": 0,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "DarkRed"
+      },
+      "Presentismo": true,
+      "Voto": 3,
+      "Banca": "54"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 0,
+        "G": 200,
+        "B": 255,
+        "A": 255,
+        "IsKnownColor": false,
+        "IsEmpty": false,
+        "IsNamedColor": false,
+        "IsSystemColor": false,
+        "Name": "ff00c8ff"
+      },
+      "Presentismo": true,
+      "Voto": 1,
+      "Banca": "55"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 0,
+        "G": 0,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "Black"
+      },
+      "Presentismo": false,
+      "Voto": 0,
+      "Banca": "56"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 0,
+        "G": 200,
+        "B": 255,
+        "A": 255,
+        "IsKnownColor": false,
+        "IsEmpty": false,
+        "IsNamedColor": false,
+        "IsSystemColor": false,
+        "Name": "ff00c8ff"
+      },
+      "Presentismo": true,
+      "Voto": 1,
+      "Banca": "57"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 139,
+        "G": 0,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "DarkRed"
+      },
+      "Presentismo": true,
+      "Voto": 3,
+      "Banca": "58"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 0,
+        "G": 0,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "Black"
+      },
+      "Presentismo": false,
+      "Voto": 0,
+      "Banca": "59"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 0,
+        "G": 0,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "Black"
+      },
+      "Presentismo": false,
+      "Voto": 0,
+      "Banca": "60"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 139,
+        "G": 0,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "DarkRed"
+      },
+      "Presentismo": true,
+      "Voto": 3,
+      "Banca": "61"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 0,
+        "G": 0,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "Black"
+      },
+      "Presentismo": false,
+      "Voto": 0,
+      "Banca": "62"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 0,
+        "G": 200,
+        "B": 255,
+        "A": 255,
+        "IsKnownColor": false,
+        "IsEmpty": false,
+        "IsNamedColor": false,
+        "IsSystemColor": false,
+        "Name": "ff00c8ff"
+      },
+      "Presentismo": true,
+      "Voto": 1,
+      "Banca": "63"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 0,
+        "G": 200,
+        "B": 255,
+        "A": 255,
+        "IsKnownColor": false,
+        "IsEmpty": false,
+        "IsNamedColor": false,
+        "IsSystemColor": false,
+        "Name": "ff00c8ff"
+      },
+      "Presentismo": true,
+      "Voto": 1,
+      "Banca": "64"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 0,
+        "G": 0,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "Black"
+      },
+      "Presentismo": false,
+      "Voto": 0,
+      "Banca": "65"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 139,
+        "G": 0,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "DarkRed"
+      },
+      "Presentismo": true,
+      "Voto": 3,
+      "Banca": "66"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 0,
+        "G": 200,
+        "B": 255,
+        "A": 255,
+        "IsKnownColor": false,
+        "IsEmpty": false,
+        "IsNamedColor": false,
+        "IsSystemColor": false,
+        "Name": "ff00c8ff"
+      },
+      "Presentismo": true,
+      "Voto": 1,
+      "Banca": "67"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 0,
+        "G": 200,
+        "B": 255,
+        "A": 255,
+        "IsKnownColor": false,
+        "IsEmpty": false,
+        "IsNamedColor": false,
+        "IsSystemColor": false,
+        "Name": "ff00c8ff"
+      },
+      "Presentismo": true,
+      "Voto": 1,
+      "Banca": "68"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 0,
+        "G": 0,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "Black"
+      },
+      "Presentismo": false,
+      "Voto": 0,
+      "Banca": "69"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 0,
+        "G": 200,
+        "B": 255,
+        "A": 255,
+        "IsKnownColor": false,
+        "IsEmpty": false,
+        "IsNamedColor": false,
+        "IsSystemColor": false,
+        "Name": "ff00c8ff"
+      },
+      "Presentismo": true,
+      "Voto": 1,
+      "Banca": "70"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 0,
+        "G": 200,
+        "B": 255,
+        "A": 255,
+        "IsKnownColor": false,
+        "IsEmpty": false,
+        "IsNamedColor": false,
+        "IsSystemColor": false,
+        "Name": "ff00c8ff"
+      },
+      "Presentismo": true,
+      "Voto": 1,
+      "Banca": "71"
+    },
+    {
+      "ColorDeBanca": {
+        "R": 0,
+        "G": 0,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "Black"
+      },
+      "Presentismo": false,
+      "Voto": 0,
+      "Banca": "72"
+    }
+  ],
+  "Presidente": {
+    "ColorDeBanca": {
+      "R": 0,
+      "G": 0,
+      "B": 0,
+      "A": 255,
+      "IsKnownColor": true,
+      "IsEmpty": false,
+      "IsNamedColor": true,
+      "IsSystemColor": false,
+      "Name": "Black"
+    },
+    "Presentismo": false,
+    "Voto": 0,
+    "Banca": "P"
+  },
+  "VotosAbstenciones": 13,
+  "VotosAfirmativos": 7,
+  "VotosNegativos": 16
+}
